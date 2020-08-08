@@ -1,4 +1,4 @@
-Location,Household Type,TimeFrame,DataFormat, Data ,Fips
+Location,Household Type,TimeFrame,DataFormat,Data,Fips
 Riverdale,All Households,2005,Dollars," $60,686.22 ",208
 Williamsbridge,All Households,2005,Dollars," $49,881.99 ",212
 Throgs Neck,All Households,2005,Dollars," $55,211.29 ",210
