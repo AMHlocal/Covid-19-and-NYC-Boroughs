@@ -1,4 +1,8 @@
+<<<<<<< HEAD:Data Set/median_incomes.csv
 Location,Household Type,TimeFrame,DataFormat,Data,Fips
+=======
+Location,Household Type,TimeFrame,DataFormat, Data ,Fips
+>>>>>>> master:data_set/median_incomes.csv
 Riverdale,All Households,2005,Dollars," $60,686.22 ",208
 Williamsbridge,All Households,2005,Dollars," $49,881.99 ",212
 Throgs Neck,All Households,2005,Dollars," $55,211.29 ",210
