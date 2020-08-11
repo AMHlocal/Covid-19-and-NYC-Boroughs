@@ -15,15 +15,15 @@ Washington Heights,All Households,2005,Dollars,39886.25863,112
 Manhattanville,All Households,2005,Dollars,35106.83757,109
 Central Harlem,All Households,2005,Dollars,33587.76757,110
 East Harlem,All Households,2005,Dollars,33812.4895,111
-Upper East Side,All Households,2005,Dollars,103965.904,108
-Upper West Side,All Households,2005,Dollars,105587.9193,107
+Upper East Side,All Households,2005,Dollars,103965.90401,108
+Upper West Side,All Households,2005,Dollars,105587.91925,107
 Chelsea/Clinton,All Households,2005,Dollars,88613.25358,104
 Midtown Business District,All Households,2005,Dollars,88613.25358,105
-Murray Hill/Stuyvesant,All Households,2005,Dollars,108133.9308,106
+Murray Hill/Stuyvesant,All Households,2005,Dollars,108133.93078,106
 Lower East Side,All Households,2005,Dollars,40241.54525,103
-Battery Park/Tribeca,All Households,2005,Dollars,116703.4943,101
-Greenwich Village,All Households,2005,Dollars,116703.4943,102
-Tottenville,All Households,2005,Dollars,100847.4165,503
+Battery Park/Tribeca,All Households,2005,Dollars,116703.49427,101
+Greenwich Village,All Households,2005,Dollars,116703.49427,102
+Tottenville,All Households,2005,Dollars,100847.41651,503
 South Beach,All Households,2005,Dollars,74698.07021,502
 St. George,All Households,2005,Dollars,64983.5548,501
 Williamsburg/Greenpoint,All Households,2005,Dollars,38234.11308,301
@@ -81,21 +81,21 @@ Manhattanville,Families,2005,Dollars,40234.01268,109
 Central Harlem,Families,2005,Dollars,38913.30058,110
 East Harlem,Families,2005,Dollars,38224.06964,111
 Upper East Side,Families,2005,Dollars,197212.9488,108
-Upper West Side,Families,2005,Dollars,196508.6527,107
-Chelsea/Clinton,Families,2005,Dollars,121569.54,104
-Midtown Business District,Families,2005,Dollars,121569.54,105
-Murray Hill/Stuyvesant,Families,2005,Dollars,177343.2621,106
+Upper West Side,Families,2005,Dollars,196508.65271,107
+Chelsea/Clinton,Families,2005,Dollars,121569.53998,104
+Midtown Business District,Families,2005,Dollars,121569.53998,105
+Murray Hill/Stuyvesant,Families,2005,Dollars,177343.26212,106
 Lower East Side,Families,2005,Dollars,40237.77896,103
-Battery Park/Tribeca,Families,2005,Dollars,168296.6353,101
-Greenwich Village,Families,2005,Dollars,168296.6353,102
-Tottenville,Families,2005,Dollars,108314.7127,503
+Battery Park/Tribeca,Families,2005,Dollars,168296.63533,101
+Greenwich Village,Families,2005,Dollars,168296.63533,102
+Tottenville,Families,2005,Dollars,108314.71267,503
 South Beach,Families,2005,Dollars,83019.05861,502
 St. George,Families,2005,Dollars,78613.75561,501
 Williamsburg/Greenpoint,Families,2005,Dollars,41966.50573,301
 Bushwick,Families,2005,Dollars,35448.31446,304
 Bedford Stuyvesant,Families,2005,Dollars,42020.48921,303
 Fort Greene/Brooklyn Hts,Families,2005,Dollars,88771.43773,302
-Park Slope,Families,2005,Dollars,117077.6123,306
+Park Slope,Families,2005,Dollars,117077.61233,306
 Crown Heights North,Families,2005,Dollars,43690.21078,308
 Brownsville,Families,2005,Dollars,31511.28676,316
 East New York,Families,2005,Dollars,46773.54625,305
@@ -145,22 +145,22 @@ Washington Heights,Families with Children,2005,Dollars,34598.38852,112
 Manhattanville,Families with Children,2005,Dollars,22786.04999,109
 Central Harlem,Families with Children,2005,Dollars,34054.78744,110
 East Harlem,Families with Children,2005,Dollars,32739.09706,111
-Upper East Side,Families with Children,2005,Dollars,249177.6971,108
+Upper East Side,Families with Children,2005,Dollars,249177.69707,108
 Upper West Side,Families with Children,2005,Dollars,251085.9503,107
-Chelsea/Clinton,Families with Children,2005,Dollars,160588.2967,104
-Midtown Business District,Families with Children,2005,Dollars,160588.2967,105
-Murray Hill/Stuyvesant,Families with Children,2005,Dollars,175048.3365,106
+Chelsea/Clinton,Families with Children,2005,Dollars,160588.29666,104
+Midtown Business District,Families with Children,2005,Dollars,160588.29666,105
+Murray Hill/Stuyvesant,Families with Children,2005,Dollars,175048.33654,106
 Lower East Side,Families with Children,2005,Dollars,36761.49398,103
-Battery Park/Tribeca,Families with Children,2005,Dollars,219700.2065,101
-Greenwich Village,Families with Children,2005,Dollars,219700.2065,102
-Tottenville,Families with Children,2005,Dollars,108462.8534,503
+Battery Park/Tribeca,Families with Children,2005,Dollars,219700.20651,101
+Greenwich Village,Families with Children,2005,Dollars,219700.20651,102
+Tottenville,Families with Children,2005,Dollars,108462.85338,503
 South Beach,Families with Children,2005,Dollars,80437.89504,502
 St. George,Families with Children,2005,Dollars,75509.07783,501
 Williamsburg/Greenpoint,Families with Children,2005,Dollars,35591.43345,301
 Bushwick,Families with Children,2005,Dollars,27329.45026,304
 Bedford Stuyvesant,Families with Children,2005,Dollars,40482.58777,303
 Fort Greene/Brooklyn Hts,Families with Children,2005,Dollars,75494.01268,302
-Park Slope,Families with Children,2005,Dollars,129152.3357,306
+Park Slope,Families with Children,2005,Dollars,129152.33568,306
 Crown Heights North,Families with Children,2005,Dollars,39448.11365,308
 Brownsville,Families with Children,2005,Dollars,28053.83323,316
 East New York,Families with Children,2005,Dollars,44821.35299,305
@@ -177,8 +177,8 @@ Coney Island,Families with Children,2005,Dollars,53915.68611,313
 Astoria,Families with Children,2005,Dollars,44322.94738,401
 Jackson Heights,Families with Children,2005,Dollars,41995.38062,403
 Flushing,Families with Children,2005,Dollars,69287.16798,407
-Bayside,Families with Children,2005,Dollars,102961.5602,411
-Queens Village,Families with Children,2005,Dollars,103908.1542,413
+Bayside,Families with Children,2005,Dollars,102961.56021,411
+Queens Village,Families with Children,2005,Dollars,103908.15424,413
 Fresh Meadows/Briarwood,Families with Children,2005,Dollars,67862.25522,408
 Elmhurst/Corona,Families with Children,2005,Dollars,44995.85772,404
 Rego Park/Forest Hills,Families with Children,2005,Dollars,94035.45467,406
@@ -210,11 +210,11 @@ Washington Heights,Families without Children,2005,Dollars,44471.08809,112
 Manhattanville,Families without Children,2005,Dollars,50665.37848,109
 Central Harlem,Families without Children,2005,Dollars,44625.50595,110
 East Harlem,Families without Children,2005,Dollars,40610.6416,111
-Upper East Side,Families without Children,2005,Dollars,172709.4709,108
-Upper West Side,Families without Children,2005,Dollars,167630.0021,107
-Chelsea/Clinton,Families without Children,2005,Dollars,111575.0637,104
-Midtown Business District,Families without Children,2005,Dollars,111575.0637,105
-Murray Hill/Stuyvesant,Families without Children,2005,Dollars,178178.1229,106
+Upper East Side,Families without Children,2005,Dollars,172709.47091,108
+Upper West Side,Families without Children,2005,Dollars,167630.00214,107
+Chelsea/Clinton,Families without Children,2005,Dollars,111575.06373,104
+Midtown Business District,Families without Children,2005,Dollars,111575.06373,105
+Murray Hill/Stuyvesant,Families without Children,2005,Dollars,178178.12291,106
 Lower East Side,Families without Children,2005,Dollars,42461.14505,103
 Battery Park/Tribeca,Families without Children,2005,Dollars,157032.9196,101
 Greenwich Village,Families without Children,2005,Dollars,157032.9196,102
@@ -225,7 +225,7 @@ Williamsburg/Greenpoint,Families without Children,2005,Dollars,50370.35249,301
 Bushwick,Families without Children,2005,Dollars,43813.2429,304
 Bedford Stuyvesant,Families without Children,2005,Dollars,43372.58705,303
 Fort Greene/Brooklyn Hts,Families without Children,2005,Dollars,98108.06879,302
-Park Slope,Families without Children,2005,Dollars,108854.5475,306
+Park Slope,Families without Children,2005,Dollars,108854.54746,306
 Crown Heights North,Families without Children,2005,Dollars,55065.65976,308
 Brownsville,Families without Children,2005,Dollars,36541.79378,316
 East New York,Families without Children,2005,Dollars,55496.27216,305
@@ -275,14 +275,14 @@ Washington Heights,All Households,2006,Dollars,39517.92801,112
 Manhattanville,All Households,2006,Dollars,34986.75302,109
 Central Harlem,All Households,2006,Dollars,32851.93098,110
 East Harlem,All Households,2006,Dollars,32858.01309,111
-Upper East Side,All Households,2006,Dollars,117070.9646,108
-Upper West Side,All Households,2006,Dollars,110248.0491,107
+Upper East Side,All Households,2006,Dollars,117070.96462,108
+Upper West Side,All Households,2006,Dollars,110248.04905,107
 Chelsea/Clinton,All Households,2006,Dollars,88443.67008,104
 Midtown Business District,All Households,2006,Dollars,88443.67008,105
-Murray Hill/Stuyvesant,All Households,2006,Dollars,109130.1565,106
+Murray Hill/Stuyvesant,All Households,2006,Dollars,109130.15648,106
 Lower East Side,All Households,2006,Dollars,44884.78547,103
-Battery Park/Tribeca,All Households,2006,Dollars,115403.2489,101
-Greenwich Village,All Households,2006,Dollars,115403.2489,102
+Battery Park/Tribeca,All Households,2006,Dollars,115403.24894,101
+Greenwich Village,All Households,2006,Dollars,115403.24894,102
 Tottenville,All Households,2006,Dollars,99665.17055,503
 South Beach,All Households,2006,Dollars,83981.83119,502
 St. George,All Households,2006,Dollars,71133.97341,501
@@ -340,15 +340,15 @@ Washington Heights,Families,2006,Dollars,37908.60063,112
 Manhattanville,Families,2006,Dollars,53353.52111,109
 Central Harlem,Families,2006,Dollars,40632.17131,110
 East Harlem,Families,2006,Dollars,35529.2776,111
-Upper East Side,Families,2006,Dollars,216604.7615,108
-Upper West Side,Families,2006,Dollars,204959.9459,107
-Chelsea/Clinton,Families,2006,Dollars,123830.6262,104
-Midtown Business District,Families,2006,Dollars,123830.6262,105
-Murray Hill/Stuyvesant,Families,2006,Dollars,162864.4179,106
+Upper East Side,Families,2006,Dollars,216604.76151,108
+Upper West Side,Families,2006,Dollars,204959.94589,107
+Chelsea/Clinton,Families,2006,Dollars,123830.62621,104
+Midtown Business District,Families,2006,Dollars,123830.62621,105
+Murray Hill/Stuyvesant,Families,2006,Dollars,162864.41793,106
 Lower East Side,Families,2006,Dollars,43336.27923,103
-Battery Park/Tribeca,Families,2006,Dollars,171393.9747,101
-Greenwich Village,Families,2006,Dollars,171393.9747,102
-Tottenville,Families,2006,Dollars,109214.0897,503
+Battery Park/Tribeca,Families,2006,Dollars,171393.97472,101
+Greenwich Village,Families,2006,Dollars,171393.97472,102
+Tottenville,Families,2006,Dollars,109214.08965,503
 South Beach,Families,2006,Dollars,89403.42768,502
 St. George,Families,2006,Dollars,82070.83095,501
 Williamsburg/Greenpoint,Families,2006,Dollars,42977.4345,301
@@ -405,15 +405,15 @@ Washington Heights,Families with Children,2006,Dollars,30440.98096,112
 Manhattanville,Families with Children,2006,Dollars,55734.06057,109
 Central Harlem,Families with Children,2006,Dollars,38621.4244,110
 East Harlem,Families with Children,2006,Dollars,29731.80646,111
-Upper East Side,Families with Children,2006,Dollars,243284.5631,108
-Upper West Side,Families with Children,2006,Dollars,243284.5631,107
+Upper East Side,Families with Children,2006,Dollars,243284.56312,108
+Upper West Side,Families with Children,2006,Dollars,243284.56312,107
 Chelsea/Clinton,Families with Children,2006,Dollars,87504.59166,104
 Midtown Business District,Families with Children,2006,Dollars,87504.59166,105
-Murray Hill/Stuyvesant,Families with Children,2006,Dollars,162930.1048,106
+Murray Hill/Stuyvesant,Families with Children,2006,Dollars,162930.10477,106
 Lower East Side,Families with Children,2006,Dollars,37650.71899,103
-Battery Park/Tribeca,Families with Children,2006,Dollars,190892.016,101
-Greenwich Village,Families with Children,2006,Dollars,190892.016,102
-Tottenville,Families with Children,2006,Dollars,119565.8478,503
+Battery Park/Tribeca,Families with Children,2006,Dollars,190892.01603,101
+Greenwich Village,Families with Children,2006,Dollars,190892.01603,102
+Tottenville,Families with Children,2006,Dollars,119565.84781,503
 South Beach,Families with Children,2006,Dollars,92607.48537,502
 St. George,Families with Children,2006,Dollars,75500.93132,501
 Williamsburg/Greenpoint,Families with Children,2006,Dollars,27895.00801,301
@@ -437,7 +437,7 @@ Coney Island,Families with Children,2006,Dollars,60973.19363,313
 Astoria,Families with Children,2006,Dollars,44362.94008,401
 Jackson Heights,Families with Children,2006,Dollars,47829.74511,403
 Flushing,Families with Children,2006,Dollars,69316.63772,407
-Bayside,Families with Children,2006,Dollars,107608.4115,411
+Bayside,Families with Children,2006,Dollars,107608.41154,411
 Queens Village,Families with Children,2006,Dollars,77424.09579,413
 Fresh Meadows/Briarwood,Families with Children,2006,Dollars,71332.25033,408
 Elmhurst/Corona,Families with Children,2006,Dollars,45992.94666,404
@@ -470,22 +470,22 @@ Washington Heights,Families without Children,2006,Dollars,50497.36034,112
 Manhattanville,Families without Children,2006,Dollars,52065.32935,109
 Central Harlem,Families without Children,2006,Dollars,43647.68347,110
 East Harlem,Families without Children,2006,Dollars,43140.43516,111
-Upper East Side,Families without Children,2006,Dollars,195564.2961,108
-Upper West Side,Families without Children,2006,Dollars,152624.5707,107
-Chelsea/Clinton,Families without Children,2006,Dollars,138538.3945,104
-Midtown Business District,Families without Children,2006,Dollars,138538.3945,105
-Murray Hill/Stuyvesant,Families without Children,2006,Dollars,162831.5745,106
+Upper East Side,Families without Children,2006,Dollars,195564.29606,108
+Upper West Side,Families without Children,2006,Dollars,152624.57067,107
+Chelsea/Clinton,Families without Children,2006,Dollars,138538.39447,104
+Midtown Business District,Families without Children,2006,Dollars,138538.39447,105
+Murray Hill/Stuyvesant,Families without Children,2006,Dollars,162831.57452,106
 Lower East Side,Families without Children,2006,Dollars,47339.52671,103
-Battery Park/Tribeca,Families without Children,2006,Dollars,160506.9905,101
-Greenwich Village,Families without Children,2006,Dollars,160506.9905,102
-Tottenville,Families without Children,2006,Dollars,104950.5277,503
+Battery Park/Tribeca,Families without Children,2006,Dollars,160506.99052,101
+Greenwich Village,Families without Children,2006,Dollars,160506.99052,102
+Tottenville,Families without Children,2006,Dollars,104950.52768,503
 South Beach,Families without Children,2006,Dollars,87575.14419,502
 St. George,Families without Children,2006,Dollars,96419.75448,501
 Williamsburg/Greenpoint,Families without Children,2006,Dollars,55236.54363,301
 Bushwick,Families without Children,2006,Dollars,42819.29953,304
 Bedford Stuyvesant,Families without Children,2006,Dollars,44647.58302,303
 Fort Greene/Brooklyn Hts,Families without Children,2006,Dollars,69383.54098,302
-Park Slope,Families without Children,2006,Dollars,110898.8353,306
+Park Slope,Families without Children,2006,Dollars,110898.83525,306
 Crown Heights North,Families without Children,2006,Dollars,68253.48418,308
 Brownsville,Families without Children,2006,Dollars,44749.76254,316
 East New York,Families without Children,2006,Dollars,52275.7705,305
@@ -535,14 +535,14 @@ Washington Heights,All Households,2007,Dollars,41925.93961,112
 Manhattanville,All Households,2007,Dollars,49503.25857,109
 Central Harlem,All Households,2007,Dollars,36929.9701,110
 East Harlem,All Households,2007,Dollars,36298.52685,111
-Upper East Side,All Households,2007,Dollars,121619.0437,108
-Upper West Side,All Households,2007,Dollars,102649.7318,107
+Upper East Side,All Households,2007,Dollars,121619.04373,108
+Upper West Side,All Households,2007,Dollars,102649.73182,107
 Chelsea/Clinton,All Households,2007,Dollars,93874.56266,104
 Midtown Business District,All Households,2007,Dollars,93874.56266,105
-Murray Hill/Stuyvesant,All Households,2007,Dollars,114611.6792,106
+Murray Hill/Stuyvesant,All Households,2007,Dollars,114611.67916,106
 Lower East Side,All Households,2007,Dollars,37884.22984,103
-Battery Park/Tribeca,All Households,2007,Dollars,124125.8971,101
-Greenwich Village,All Households,2007,Dollars,124125.8971,102
+Battery Park/Tribeca,All Households,2007,Dollars,124125.89707,101
+Greenwich Village,All Households,2007,Dollars,124125.89707,102
 Tottenville,All Households,2007,Dollars,92696.81458,503
 South Beach,All Households,2007,Dollars,80856.66247,502
 St. George,All Households,2007,Dollars,66214.03752,501
@@ -600,22 +600,22 @@ Washington Heights,Families,2007,Dollars,44046.12264,112
 Manhattanville,Families,2007,Dollars,55203.98495,109
 Central Harlem,Families,2007,Dollars,40964.585,110
 East Harlem,Families,2007,Dollars,41031.98625,111
-Upper East Side,Families,2007,Dollars,210518.9215,108
+Upper East Side,Families,2007,Dollars,210518.92148,108
 Upper West Side,Families,2007,Dollars,189694.3016,107
-Chelsea/Clinton,Families,2007,Dollars,142547.7217,104
-Midtown Business District,Families,2007,Dollars,142547.7217,105
-Murray Hill/Stuyvesant,Families,2007,Dollars,152819.908,106
+Chelsea/Clinton,Families,2007,Dollars,142547.72167,104
+Midtown Business District,Families,2007,Dollars,142547.72167,105
+Murray Hill/Stuyvesant,Families,2007,Dollars,152819.90797,106
 Lower East Side,Families,2007,Dollars,37634.72698,103
-Battery Park/Tribeca,Families,2007,Dollars,166727.0316,101
-Greenwich Village,Families,2007,Dollars,166727.0316,102
-Tottenville,Families,2007,Dollars,110684.6698,503
+Battery Park/Tribeca,Families,2007,Dollars,166727.03161,101
+Greenwich Village,Families,2007,Dollars,166727.03161,102
+Tottenville,Families,2007,Dollars,110684.66976,503
 South Beach,Families,2007,Dollars,90869.88608,502
 St. George,Families,2007,Dollars,79490.90039,501
 Williamsburg/Greenpoint,Families,2007,Dollars,46343.67738,301
 Bushwick,Families,2007,Dollars,37360.39209,304
 Bedford Stuyvesant,Families,2007,Dollars,42677.99561,303
 Fort Greene/Brooklyn Hts,Families,2007,Dollars,78659.61836,302
-Park Slope,Families,2007,Dollars,121071.5564,306
+Park Slope,Families,2007,Dollars,121071.55642,306
 Crown Heights North,Families,2007,Dollars,47870.25646,308
 Brownsville,Families,2007,Dollars,35216.55949,316
 East New York,Families,2007,Dollars,48253.37933,305
@@ -665,22 +665,22 @@ Washington Heights,Families with Children,2007,Dollars,32656.49464,112
 Manhattanville,Families with Children,2007,Dollars,55207.53239,109
 Central Harlem,Families with Children,2007,Dollars,35571.30289,110
 East Harlem,Families with Children,2007,Dollars,39316.21068,111
-Upper East Side,Families with Children,2007,Dollars,232291.8887,108
-Upper West Side,Families with Children,2007,Dollars,227855.2313,107
-Chelsea/Clinton,Families with Children,2007,Dollars,130316.1694,104
-Midtown Business District,Families with Children,2007,Dollars,130316.1694,105
-Murray Hill/Stuyvesant,Families with Children,2007,Dollars,137788.2478,106
+Upper East Side,Families with Children,2007,Dollars,232291.88871,108
+Upper West Side,Families with Children,2007,Dollars,227855.23129,107
+Chelsea/Clinton,Families with Children,2007,Dollars,130316.16935,104
+Midtown Business District,Families with Children,2007,Dollars,130316.16935,105
+Murray Hill/Stuyvesant,Families with Children,2007,Dollars,137788.24776,106
 Lower East Side,Families with Children,2007,Dollars,31802.74554,103
-Battery Park/Tribeca,Families with Children,2007,Dollars,153472.6358,101
-Greenwich Village,Families with Children,2007,Dollars,153472.6358,102
-Tottenville,Families with Children,2007,Dollars,104278.004,503
+Battery Park/Tribeca,Families with Children,2007,Dollars,153472.63582,101
+Greenwich Village,Families with Children,2007,Dollars,153472.63582,102
+Tottenville,Families with Children,2007,Dollars,104278.00401,503
 South Beach,Families with Children,2007,Dollars,93664.08157,502
 St. George,Families with Children,2007,Dollars,73787.80904,501
 Williamsburg/Greenpoint,Families with Children,2007,Dollars,42578.66746,301
 Bushwick,Families with Children,2007,Dollars,28613.6024,304
 Bedford Stuyvesant,Families with Children,2007,Dollars,32046.336,303
 Fort Greene/Brooklyn Hts,Families with Children,2007,Dollars,73021.56331,302
-Park Slope,Families with Children,2007,Dollars,152113.9686,306
+Park Slope,Families with Children,2007,Dollars,152113.96861,306
 Crown Heights North,Families with Children,2007,Dollars,38130.18526,308
 Brownsville,Families with Children,2007,Dollars,31580.43967,316
 East New York,Families with Children,2007,Dollars,37669.01884,305
@@ -730,15 +730,15 @@ Washington Heights,Families without Children,2007,Dollars,53008.12333,112
 Manhattanville,Families without Children,2007,Dollars,55195.70761,109
 Central Harlem,Families without Children,2007,Dollars,49279.77023,110
 East Harlem,Families without Children,2007,Dollars,43464.34347,111
-Upper East Side,Families without Children,2007,Dollars,194133.324,108
-Upper West Side,Families without Children,2007,Dollars,156692.5234,107
-Chelsea/Clinton,Families without Children,2007,Dollars,148852.6943,104
-Midtown Business District,Families without Children,2007,Dollars,148852.6943,105
-Murray Hill/Stuyvesant,Families without Children,2007,Dollars,158677.9039,106
+Upper East Side,Families without Children,2007,Dollars,194133.32398,108
+Upper West Side,Families without Children,2007,Dollars,156692.52339,107
+Chelsea/Clinton,Families without Children,2007,Dollars,148852.69431,104
+Midtown Business District,Families without Children,2007,Dollars,148852.69431,105
+Murray Hill/Stuyvesant,Families without Children,2007,Dollars,158677.90393,106
 Lower East Side,Families without Children,2007,Dollars,43240.85513,103
-Battery Park/Tribeca,Families without Children,2007,Dollars,184535.1501,101
-Greenwich Village,Families without Children,2007,Dollars,184535.1501,102
-Tottenville,Families without Children,2007,Dollars,115729.1209,503
+Battery Park/Tribeca,Families without Children,2007,Dollars,184535.15014,101
+Greenwich Village,Families without Children,2007,Dollars,184535.15014,102
+Tottenville,Families without Children,2007,Dollars,115729.12086,503
 South Beach,Families without Children,2007,Dollars,87471.44434,502
 St. George,Families without Children,2007,Dollars,82574.80299,501
 Williamsburg/Greenpoint,Families without Children,2007,Dollars,49484.33892,301
@@ -795,15 +795,15 @@ Washington Heights,All Households,2008,Dollars,43147.89411,112
 Manhattanville,All Households,2008,Dollars,42799.33012,109
 Central Harlem,All Households,2008,Dollars,37769.07324,110
 East Harlem,All Households,2008,Dollars,34553.39951,111
-Upper East Side,All Households,2008,Dollars,125510.3769,108
-Upper West Side,All Households,2008,Dollars,117333.9312,107
+Upper East Side,All Households,2008,Dollars,125510.37685,108
+Upper West Side,All Households,2008,Dollars,117333.93123,107
 Chelsea/Clinton,All Households,2008,Dollars,90368.06367,104
 Midtown Business District,All Households,2008,Dollars,90368.06367,105
 Murray Hill/Stuyvesant,All Households,2008,Dollars,122832.3574,106
 Lower East Side,All Households,2008,Dollars,41620.36366,103
-Battery Park/Tribeca,All Households,2008,Dollars,120416.3305,101
-Greenwich Village,All Households,2008,Dollars,120416.3305,102
-Tottenville,All Households,2008,Dollars,103415.2925,503
+Battery Park/Tribeca,All Households,2008,Dollars,120416.33048,101
+Greenwich Village,All Households,2008,Dollars,120416.33048,102
+Tottenville,All Households,2008,Dollars,103415.29245,503
 South Beach,All Households,2008,Dollars,85932.41595,502
 St. George,All Households,2008,Dollars,63348.6585,501
 Williamsburg/Greenpoint,All Households,2008,Dollars,46985.51536,301
@@ -860,22 +860,22 @@ Washington Heights,Families,2008,Dollars,45567.33832,112
 Manhattanville,Families,2008,Dollars,48093.85774,109
 Central Harlem,Families,2008,Dollars,46791.8687,110
 East Harlem,Families,2008,Dollars,35760.84342,111
-Upper East Side,Families,2008,Dollars,207311.2843,108
-Upper West Side,Families,2008,Dollars,181182.6538,107
-Chelsea/Clinton,Families,2008,Dollars,129532.532,104
-Midtown Business District,Families,2008,Dollars,129532.532,105
-Murray Hill/Stuyvesant,Families,2008,Dollars,178980.7773,106
+Upper East Side,Families,2008,Dollars,207311.28427,108
+Upper West Side,Families,2008,Dollars,181182.65376,107
+Chelsea/Clinton,Families,2008,Dollars,129532.53198,104
+Midtown Business District,Families,2008,Dollars,129532.53198,105
+Murray Hill/Stuyvesant,Families,2008,Dollars,178980.77727,106
 Lower East Side,Families,2008,Dollars,41361.78841,103
-Battery Park/Tribeca,Families,2008,Dollars,200759.1924,101
-Greenwich Village,Families,2008,Dollars,200759.1924,102
-Tottenville,Families,2008,Dollars,111971.0577,503
+Battery Park/Tribeca,Families,2008,Dollars,200759.19243,101
+Greenwich Village,Families,2008,Dollars,200759.19243,102
+Tottenville,Families,2008,Dollars,111971.05772,503
 South Beach,Families,2008,Dollars,95702.45972,502
 St. George,Families,2008,Dollars,71451.06275,501
 Williamsburg/Greenpoint,Families,2008,Dollars,46418.24454,301
 Bushwick,Families,2008,Dollars,43200.29262,304
 Bedford Stuyvesant,Families,2008,Dollars,46234.84976,303
 Fort Greene/Brooklyn Hts,Families,2008,Dollars,90763.33068,302
-Park Slope,Families,2008,Dollars,122730.9777,306
+Park Slope,Families,2008,Dollars,122730.97767,306
 Crown Heights North,Families,2008,Dollars,47301.04551,308
 Brownsville,Families,2008,Dollars,38242.93801,316
 East New York,Families,2008,Dollars,45407.8646,305
@@ -925,22 +925,22 @@ Washington Heights,Families with Children,2008,Dollars,36837.29105,112
 Manhattanville,Families with Children,2008,Dollars,35061.43723,109
 Central Harlem,Families with Children,2008,Dollars,46333.95129,110
 East Harlem,Families with Children,2008,Dollars,30376.32705,111
-Upper East Side,Families with Children,2008,Dollars,227819.6051,108
-Upper West Side,Families with Children,2008,Dollars,216485.5798,107
+Upper East Side,Families with Children,2008,Dollars,227819.60512,108
+Upper West Side,Families with Children,2008,Dollars,216485.57977,107
 Chelsea/Clinton,Families with Children,2008,Dollars,96291.3734,104
 Midtown Business District,Families with Children,2008,Dollars,96291.3734,105
-Murray Hill/Stuyvesant,Families with Children,2008,Dollars,195537.5671,106
+Murray Hill/Stuyvesant,Families with Children,2008,Dollars,195537.56708,106
 Lower East Side,Families with Children,2008,Dollars,39652.00227,103
-Battery Park/Tribeca,Families with Children,2008,Dollars,218760.3585,101
-Greenwich Village,Families with Children,2008,Dollars,218760.3585,102
-Tottenville,Families with Children,2008,Dollars,113925.7499,503
+Battery Park/Tribeca,Families with Children,2008,Dollars,218760.35852,101
+Greenwich Village,Families with Children,2008,Dollars,218760.35852,102
+Tottenville,Families with Children,2008,Dollars,113925.74993,503
 South Beach,Families with Children,2008,Dollars,90677.89833,502
 St. George,Families with Children,2008,Dollars,59167.02965,501
 Williamsburg/Greenpoint,Families with Children,2008,Dollars,42611.37894,301
 Bushwick,Families with Children,2008,Dollars,40633.90477,304
 Bedford Stuyvesant,Families with Children,2008,Dollars,35330.26436,303
 Fort Greene/Brooklyn Hts,Families with Children,2008,Dollars,84475.50958,302
-Park Slope,Families with Children,2008,Dollars,131235.4835,306
+Park Slope,Families with Children,2008,Dollars,131235.48353,306
 Crown Heights North,Families with Children,2008,Dollars,38195.0959,308
 Brownsville,Families with Children,2008,Dollars,30556.30454,316
 East New York,Families with Children,2008,Dollars,42990.69858,305
@@ -961,7 +961,7 @@ Bayside,Families with Children,2008,Dollars,95618.16647,411
 Queens Village,Families with Children,2008,Dollars,88812.05576,413
 Fresh Meadows/Briarwood,Families with Children,2008,Dollars,75445.87953,408
 Elmhurst/Corona,Families with Children,2008,Dollars,36151.55404,404
-Rego Park/Forest Hills,Families with Children,2008,Dollars,102334.2884,406
+Rego Park/Forest Hills,Families with Children,2008,Dollars,102334.28843,406
 Sunnyside/Woodside,Families with Children,2008,Dollars,52445.2122,402
 Ridgewood/Glendale,Families with Children,2008,Dollars,69099.96443,405
 Woodhaven,Families with Children,2008,Dollars,59864.15764,409
@@ -990,22 +990,22 @@ Washington Heights,Families without Children,2008,Dollars,55583.42726,112
 Manhattanville,Families without Children,2008,Dollars,59234.23643,109
 Central Harlem,Families without Children,2008,Dollars,47121.06803,110
 East Harlem,Families without Children,2008,Dollars,42309.51797,111
-Upper East Side,Families without Children,2008,Dollars,187657.2869,108
-Upper West Side,Families without Children,2008,Dollars,147959.7207,107
+Upper East Side,Families without Children,2008,Dollars,187657.28694,108
+Upper West Side,Families without Children,2008,Dollars,147959.72074,107
 Chelsea/Clinton,Families without Children,2008,Dollars,139447.2412,104
 Midtown Business District,Families without Children,2008,Dollars,139447.2412,105
 Murray Hill/Stuyvesant,Families without Children,2008,Dollars,173309.2082,106
 Lower East Side,Families without Children,2008,Dollars,42316.35255,103
-Battery Park/Tribeca,Families without Children,2008,Dollars,195141.161,101
-Greenwich Village,Families without Children,2008,Dollars,195141.161,102
-Tottenville,Families without Children,2008,Dollars,108440.9929,503
+Battery Park/Tribeca,Families without Children,2008,Dollars,195141.16096,101
+Greenwich Village,Families without Children,2008,Dollars,195141.16096,102
+Tottenville,Families without Children,2008,Dollars,108440.99294,503
 South Beach,Families without Children,2008,Dollars,99730.31034,502
 St. George,Families without Children,2008,Dollars,81419.30958,501
 Williamsburg/Greenpoint,Families without Children,2008,Dollars,48158.78633,301
 Bushwick,Families without Children,2008,Dollars,48067.65848,304
 Bedford Stuyvesant,Families without Children,2008,Dollars,55202.96852,303
-Fort Greene/Brooklyn Hts,Families without Children,2008,Dollars,102834.3525,302
-Park Slope,Families without Children,2008,Dollars,118226.9841,306
+Fort Greene/Brooklyn Hts,Families without Children,2008,Dollars,102834.35246,302
+Park Slope,Families without Children,2008,Dollars,118226.98408,306
 Crown Heights North,Families without Children,2008,Dollars,50939.32461,308
 Brownsville,Families without Children,2008,Dollars,45846.41733,316
 East New York,Families without Children,2008,Dollars,51074.87727,305
@@ -1022,7 +1022,7 @@ Coney Island,Families without Children,2008,Dollars,44120.68383,313
 Astoria,Families without Children,2008,Dollars,71410.05523,401
 Jackson Heights,Families without Children,2008,Dollars,69135.27647,403
 Flushing,Families without Children,2008,Dollars,77025.80849,407
-Bayside,Families without Children,2008,Dollars,100103.9345,411
+Bayside,Families without Children,2008,Dollars,100103.93449,411
 Queens Village,Families without Children,2008,Dollars,98747.26874,413
 Fresh Meadows/Briarwood,Families without Children,2008,Dollars,81385.13664,408
 Elmhurst/Corona,Families without Children,2008,Dollars,57072.22838,404
@@ -1055,11 +1055,11 @@ Washington Heights,All Households,2009,Dollars,42385.47036,112
 Manhattanville,All Households,2009,Dollars,44124.6779,109
 Central Harlem,All Households,2009,Dollars,35965.71482,110
 East Harlem,All Households,2009,Dollars,31965.08041,111
-Upper East Side,All Households,2009,Dollars,112919.3633,108
-Upper West Side,All Households,2009,Dollars,120860.0684,107
+Upper East Side,All Households,2009,Dollars,112919.36333,108
+Upper West Side,All Households,2009,Dollars,120860.06843,107
 Chelsea/Clinton,All Households,2009,Dollars,93436.12518,104
 Midtown Business District,All Households,2009,Dollars,93436.12518,105
-Murray Hill/Stuyvesant,All Households,2009,Dollars,112786.8088,106
+Murray Hill/Stuyvesant,All Households,2009,Dollars,112786.80875,106
 Lower East Side,All Households,2009,Dollars,47141.43735,103
 Battery Park/Tribeca,All Households,2009,Dollars,116321.2167,101
 Greenwich Village,All Households,2009,Dollars,116321.2167,102
@@ -1070,7 +1070,7 @@ Williamsburg/Greenpoint,All Households,2009,Dollars,44830.87386,301
 Bushwick,All Households,2009,Dollars,36315.38467,304
 Bedford Stuyvesant,All Households,2009,Dollars,34463.04865,303
 Fort Greene/Brooklyn Hts,All Households,2009,Dollars,75597.24947,302
-Park Slope,All Households,2009,Dollars,103142.3202,306
+Park Slope,All Households,2009,Dollars,103142.32019,306
 Crown Heights North,All Households,2009,Dollars,43914.4189,308
 Brownsville,All Households,2009,Dollars,29531.10403,316
 East New York,All Households,2009,Dollars,38109.44237,305
@@ -1120,14 +1120,14 @@ Washington Heights,Families,2009,Dollars,43635.5972,112
 Manhattanville,Families,2009,Dollars,52044.81418,109
 Central Harlem,Families,2009,Dollars,45669.62441,110
 East Harlem,Families,2009,Dollars,30886.36036,111
-Upper East Side,Families,2009,Dollars,203413.0053,108
-Upper West Side,Families,2009,Dollars,206715.4428,107
-Chelsea/Clinton,Families,2009,Dollars,142945.2616,104
-Midtown Business District,Families,2009,Dollars,142945.2616,105
-Murray Hill/Stuyvesant,Families,2009,Dollars,168676.8485,106
+Upper East Side,Families,2009,Dollars,203413.00533,108
+Upper West Side,Families,2009,Dollars,206715.44276,107
+Chelsea/Clinton,Families,2009,Dollars,142945.26162,104
+Midtown Business District,Families,2009,Dollars,142945.26162,105
+Murray Hill/Stuyvesant,Families,2009,Dollars,168676.84853,106
 Lower East Side,Families,2009,Dollars,39791.51431,103
-Battery Park/Tribeca,Families,2009,Dollars,177452.876,101
-Greenwich Village,Families,2009,Dollars,177452.876,102
+Battery Park/Tribeca,Families,2009,Dollars,177452.87604,101
+Greenwich Village,Families,2009,Dollars,177452.87604,102
 Tottenville,Families,2009,Dollars,99450.21799,503
 South Beach,Families,2009,Dollars,96454.02735,502
 St. George,Families,2009,Dollars,77088.48852,501
@@ -1152,7 +1152,7 @@ Coney Island,Families,2009,Dollars,48928.63879,313
 Astoria,Families,2009,Dollars,56971.04525,401
 Jackson Heights,Families,2009,Dollars,60655.14846,403
 Flushing,Families,2009,Dollars,70183.08041,407
-Bayside,Families,2009,Dollars,103341.1521,411
+Bayside,Families,2009,Dollars,103341.15206,411
 Queens Village,Families,2009,Dollars,99659.33427,413
 Fresh Meadows/Briarwood,Families,2009,Dollars,69805.98548,408
 Elmhurst/Corona,Families,2009,Dollars,49018.91303,404
@@ -1165,7 +1165,7 @@ Howard Beach,Families,2009,Dollars,80997.70598,410
 The Rockaways,Families,2009,Dollars,78636.86316,414
 Bronx,Families,2009,Dollars,42735.14021,36005
 Brooklyn,Families,2009,Dollars,55799.76554,36047
-Manhattan,Families,2009,Dollars,101785.9211,36061
+Manhattan,Families,2009,Dollars,101785.92114,36061
 Queens,Families,2009,Dollars,71331.50589,36081
 Staten Island,Families,2009,Dollars,91664.92171,36085
 New York City,Families,2009,Dollars,64053.5737,3651000
@@ -1185,11 +1185,11 @@ Washington Heights,Families with Children,2009,Dollars,36749.6152,112
 Manhattanville,Families with Children,2009,Dollars,55283.25975,109
 Central Harlem,Families with Children,2009,Dollars,43428.76634,110
 East Harlem,Families with Children,2009,Dollars,28319.8294,111
-Upper East Side,Families with Children,2009,Dollars,217980.2968,108
-Upper West Side,Families with Children,2009,Dollars,230129.6099,107
-Chelsea/Clinton,Families with Children,2009,Dollars,201798.3534,104
-Midtown Business District,Families with Children,2009,Dollars,201798.3534,105
-Murray Hill/Stuyvesant,Families with Children,2009,Dollars,159115.7779,106
+Upper East Side,Families with Children,2009,Dollars,217980.29682,108
+Upper West Side,Families with Children,2009,Dollars,230129.60991,107
+Chelsea/Clinton,Families with Children,2009,Dollars,201798.35339,104
+Midtown Business District,Families with Children,2009,Dollars,201798.35339,105
+Murray Hill/Stuyvesant,Families with Children,2009,Dollars,159115.77793,106
 Lower East Side,Families with Children,2009,Dollars,36017.13686,103
 Battery Park/Tribeca,Families with Children,2009,Dollars,178312.1954,101
 Greenwich Village,Families with Children,2009,Dollars,178312.1954,102
@@ -1199,8 +1199,8 @@ St. George,Families with Children,2009,Dollars,65985.89955,501
 Williamsburg/Greenpoint,Families with Children,2009,Dollars,31849.6665,301
 Bushwick,Families with Children,2009,Dollars,29641.94708,304
 Bedford Stuyvesant,Families with Children,2009,Dollars,30113.8871,303
-Fort Greene/Brooklyn Hts,Families with Children,2009,Dollars,124958.9761,302
-Park Slope,Families with Children,2009,Dollars,129998.3356,306
+Fort Greene/Brooklyn Hts,Families with Children,2009,Dollars,124958.97607,302
+Park Slope,Families with Children,2009,Dollars,129998.33562,306
 Crown Heights North,Families with Children,2009,Dollars,40186.89264,308
 Brownsville,Families with Children,2009,Dollars,27757.61513,316
 East New York,Families with Children,2009,Dollars,35069.82868,305
@@ -1217,11 +1217,11 @@ Coney Island,Families with Children,2009,Dollars,52048.24232,313
 Astoria,Families with Children,2009,Dollars,45147.40506,401
 Jackson Heights,Families with Children,2009,Dollars,46236.40952,403
 Flushing,Families with Children,2009,Dollars,77479.29599,407
-Bayside,Families with Children,2009,Dollars,102572.1069,411
-Queens Village,Families with Children,2009,Dollars,102657.8103,413
+Bayside,Families with Children,2009,Dollars,102572.10694,411
+Queens Village,Families with Children,2009,Dollars,102657.81033,413
 Fresh Meadows/Briarwood,Families with Children,2009,Dollars,75212.15555,408
 Elmhurst/Corona,Families with Children,2009,Dollars,40963.93674,404
-Rego Park/Forest Hills,Families with Children,2009,Dollars,107000.1156,406
+Rego Park/Forest Hills,Families with Children,2009,Dollars,107000.11561,406
 Sunnyside/Woodside,Families with Children,2009,Dollars,62077.8248,402
 Ridgewood/Glendale,Families with Children,2009,Dollars,60860.83661,405
 Woodhaven,Families with Children,2009,Dollars,58450.85718,409
@@ -1230,7 +1230,7 @@ Howard Beach,Families with Children,2009,Dollars,69743.13633,410
 The Rockaways,Families with Children,2009,Dollars,70015.10176,414
 Bronx,Families with Children,2009,Dollars,35297.22835,36005
 Brooklyn,Families with Children,2009,Dollars,49698.82662,36047
-Manhattan,Families with Children,2009,Dollars,112902.2227,36061
+Manhattan,Families with Children,2009,Dollars,112902.22265,36061
 Queens,Families with Children,2009,Dollars,66369.85075,36081
 Staten Island,Families with Children,2009,Dollars,81310.80904,36085
 New York City,Families with Children,2009,Dollars,56232.85335,3651000
@@ -1250,22 +1250,22 @@ Washington Heights,Families without Children,2009,Dollars,47948.19197,112
 Manhattanville,Families without Children,2009,Dollars,51264.34194,109
 Central Harlem,Families without Children,2009,Dollars,56688.79541,110
 East Harlem,Families without Children,2009,Dollars,31710.25565,111
-Upper East Side,Families without Children,2009,Dollars,191377.9634,108
-Upper West Side,Families without Children,2009,Dollars,183854.3482,107
-Chelsea/Clinton,Families without Children,2009,Dollars,128564.2322,104
-Midtown Business District,Families without Children,2009,Dollars,128564.2322,105
-Murray Hill/Stuyvesant,Families without Children,2009,Dollars,169607.016,106
+Upper East Side,Families without Children,2009,Dollars,191377.96344,108
+Upper West Side,Families without Children,2009,Dollars,183854.34819,107
+Chelsea/Clinton,Families without Children,2009,Dollars,128564.23217,104
+Midtown Business District,Families without Children,2009,Dollars,128564.23217,105
+Murray Hill/Stuyvesant,Families without Children,2009,Dollars,169607.01603,106
 Lower East Side,Families without Children,2009,Dollars,47141.43735,103
-Battery Park/Tribeca,Families without Children,2009,Dollars,175808.5136,101
-Greenwich Village,Families without Children,2009,Dollars,175808.5136,102
-Tottenville,Families without Children,2009,Dollars,104999.2271,503
+Battery Park/Tribeca,Families without Children,2009,Dollars,175808.51359,101
+Greenwich Village,Families without Children,2009,Dollars,175808.51359,102
+Tottenville,Families without Children,2009,Dollars,104999.22705,503
 South Beach,Families without Children,2009,Dollars,95930.66529,502
 St. George,Families without Children,2009,Dollars,93004.18007,501
 Williamsburg/Greenpoint,Families without Children,2009,Dollars,50501.01038,301
 Bushwick,Families without Children,2009,Dollars,40925.08453,304
 Bedford Stuyvesant,Families without Children,2009,Dollars,59352.45688,303
-Fort Greene/Brooklyn Hts,Families without Children,2009,Dollars,106444.7576,302
-Park Slope,Families without Children,2009,Dollars,123569.4384,306
+Fort Greene/Brooklyn Hts,Families without Children,2009,Dollars,106444.75762,302
+Park Slope,Families without Children,2009,Dollars,123569.43838,306
 Crown Heights North,Families without Children,2009,Dollars,66665.81314,308
 Brownsville,Families without Children,2009,Dollars,38733.36308,316
 East New York,Families without Children,2009,Dollars,53377.21628,305
@@ -1282,7 +1282,7 @@ Coney Island,Families without Children,2009,Dollars,47144.86549,313
 Astoria,Families without Children,2009,Dollars,61040.24238,401
 Jackson Heights,Families without Children,2009,Dollars,68376.45288,403
 Flushing,Families without Children,2009,Dollars,66556.11279,407
-Bayside,Families without Children,2009,Dollars,103482.8483,411
+Bayside,Families without Children,2009,Dollars,103482.84834,411
 Queens Village,Families without Children,2009,Dollars,95501.00561,413
 Fresh Meadows/Briarwood,Families without Children,2009,Dollars,64420.38422,408
 Elmhurst/Corona,Families without Children,2009,Dollars,60628.86609,404
@@ -1315,14 +1315,14 @@ Washington Heights,All Households,2010,Dollars,46297.48948,112
 Manhattanville,All Households,2010,Dollars,41908.49963,109
 Central Harlem,All Households,2010,Dollars,39734.80826,110
 East Harlem,All Households,2010,Dollars,34380.98282,111
-Upper East Side,All Households,2010,Dollars,107365.5098,108
-Upper West Side,All Households,2010,Dollars,101207.6547,107
+Upper East Side,All Households,2010,Dollars,107365.50979,108
+Upper West Side,All Households,2010,Dollars,101207.65469,107
 Chelsea/Clinton,All Households,2010,Dollars,87538.02601,104
 Midtown Business District,All Households,2010,Dollars,87538.02601,105
-Murray Hill/Stuyvesant,All Households,2010,Dollars,102465.9892,106
+Murray Hill/Stuyvesant,All Households,2010,Dollars,102465.98921,106
 Lower East Side,All Households,2010,Dollars,47582.81242,103
-Battery Park/Tribeca,All Households,2010,Dollars,114834.5517,101
-Greenwich Village,All Households,2010,Dollars,114834.5517,102
+Battery Park/Tribeca,All Households,2010,Dollars,114834.55171,101
+Greenwich Village,All Households,2010,Dollars,114834.55171,102
 Tottenville,All Households,2010,Dollars,91843.80161,503
 South Beach,All Households,2010,Dollars,77294.80064,502
 St. George,All Households,2010,Dollars,66728.83889,501
@@ -1380,15 +1380,15 @@ Washington Heights,Families,2010,Dollars,48372.22335,112
 Manhattanville,Families,2010,Dollars,45777.96263,109
 Central Harlem,Families,2010,Dollars,43459.20857,110
 East Harlem,Families,2010,Dollars,38566.4351,111
-Upper East Side,Families,2010,Dollars,192987.3588,108
-Upper West Side,Families,2010,Dollars,158754.8123,107
-Chelsea/Clinton,Families,2010,Dollars,119373.1023,104
-Midtown Business District,Families,2010,Dollars,119373.1023,105
-Murray Hill/Stuyvesant,Families,2010,Dollars,161362.5672,106
+Upper East Side,Families,2010,Dollars,192987.35883,108
+Upper West Side,Families,2010,Dollars,158754.81226,107
+Chelsea/Clinton,Families,2010,Dollars,119373.10233,104
+Midtown Business District,Families,2010,Dollars,119373.10233,105
+Murray Hill/Stuyvesant,Families,2010,Dollars,161362.56718,106
 Lower East Side,Families,2010,Dollars,49141.39298,103
-Battery Park/Tribeca,Families,2010,Dollars,181801.7882,101
-Greenwich Village,Families,2010,Dollars,181801.7882,102
-Tottenville,Families,2010,Dollars,112813.7947,503
+Battery Park/Tribeca,Families,2010,Dollars,181801.78821,101
+Greenwich Village,Families,2010,Dollars,181801.78821,102
+Tottenville,Families,2010,Dollars,112813.79466,503
 South Beach,Families,2010,Dollars,94498.78625,502
 St. George,Families,2010,Dollars,76687.56146,501
 Williamsburg/Greenpoint,Families,2010,Dollars,46349.21727,301
@@ -1445,11 +1445,11 @@ Washington Heights,Families with Children,2010,Dollars,42017.57777,112
 Manhattanville,Families with Children,2010,Dollars,39907.98388,109
 Central Harlem,Families with Children,2010,Dollars,36962.87385,110
 East Harlem,Families with Children,2010,Dollars,31580.93548,111
-Upper East Side,Families with Children,2010,Dollars,257814.6395,108
-Upper West Side,Families with Children,2010,Dollars,197094.0949,107
-Chelsea/Clinton,Families with Children,2010,Dollars,116998.1224,104
-Midtown Business District,Families with Children,2010,Dollars,116998.1224,105
-Murray Hill/Stuyvesant,Families with Children,2010,Dollars,169381.4979,106
+Upper East Side,Families with Children,2010,Dollars,257814.63947,108
+Upper West Side,Families with Children,2010,Dollars,197094.09492,107
+Chelsea/Clinton,Families with Children,2010,Dollars,116998.12243,104
+Midtown Business District,Families with Children,2010,Dollars,116998.12243,105
+Murray Hill/Stuyvesant,Families with Children,2010,Dollars,169381.49792,106
 Lower East Side,Families with Children,2010,Dollars,46210.90167,103
 Battery Park/Tribeca,Families with Children,2010,Dollars,256256.0589,101
 Greenwich Village,Families with Children,2010,Dollars,256256.0589,102
@@ -1459,8 +1459,8 @@ St. George,Families with Children,2010,Dollars,60036.83821,501
 Williamsburg/Greenpoint,Families with Children,2010,Dollars,40491.6082,301
 Bushwick,Families with Children,2010,Dollars,37434.04648,304
 Bedford Stuyvesant,Families with Children,2010,Dollars,32058.85521,303
-Fort Greene/Brooklyn Hts,Families with Children,2010,Dollars,127475.2473,302
-Park Slope,Families with Children,2010,Dollars,133404.8255,306
+Fort Greene/Brooklyn Hts,Families with Children,2010,Dollars,127475.24733,302
+Park Slope,Families with Children,2010,Dollars,133404.82548,306
 Crown Heights North,Families with Children,2010,Dollars,36544.55353,308
 Brownsville,Families with Children,2010,Dollars,26676.91684,316
 East New York,Families with Children,2010,Dollars,33816.47528,305
@@ -1510,22 +1510,22 @@ Washington Heights,Families without Children,2010,Dollars,52523.94012,112
 Manhattanville,Families without Children,2010,Dollars,48157.44061,109
 Central Harlem,Families without Children,2010,Dollars,45584.5457,110
 East Harlem,Families without Children,2010,Dollars,46137.80807,111
-Upper East Side,Families without Children,2010,Dollars,163920.8434,108
-Upper West Side,Families without Children,2010,Dollars,131372.8233,107
-Chelsea/Clinton,Families without Children,2010,Dollars,119702.5858,104
-Midtown Business District,Families without Children,2010,Dollars,119702.5858,105
-Murray Hill/Stuyvesant,Families without Children,2010,Dollars,159086.5448,106
+Upper East Side,Families without Children,2010,Dollars,163920.84336,108
+Upper West Side,Families without Children,2010,Dollars,131372.82326,107
+Chelsea/Clinton,Families without Children,2010,Dollars,119702.58582,104
+Midtown Business District,Families without Children,2010,Dollars,119702.58582,105
+Murray Hill/Stuyvesant,Families without Children,2010,Dollars,159086.54477,106
 Lower East Side,Families without Children,2010,Dollars,50965.35956,103
-Battery Park/Tribeca,Families without Children,2010,Dollars,153020.9001,101
-Greenwich Village,Families without Children,2010,Dollars,153020.9001,102
-Tottenville,Families without Children,2010,Dollars,107027.0302,503
+Battery Park/Tribeca,Families without Children,2010,Dollars,153020.90006,101
+Greenwich Village,Families without Children,2010,Dollars,153020.90006,102
+Tottenville,Families without Children,2010,Dollars,107027.03017,503
 South Beach,Families without Children,2010,Dollars,94337.98032,502
 St. George,Families without Children,2010,Dollars,93977.01036,501
 Williamsburg/Greenpoint,Families without Children,2010,Dollars,62480.41366,301
 Bushwick,Families without Children,2010,Dollars,47100.39462,304
 Bedford Stuyvesant,Families without Children,2010,Dollars,52084.25398,303
 Fort Greene/Brooklyn Hts,Families without Children,2010,Dollars,77998.74828,302
-Park Slope,Families without Children,2010,Dollars,105364.994,306
+Park Slope,Families without Children,2010,Dollars,105364.99404,306
 Crown Heights North,Families without Children,2010,Dollars,50710.0942,308
 Brownsville,Families without Children,2010,Dollars,47926.91462,316
 East New York,Families without Children,2010,Dollars,47874.06232,305
@@ -1575,11 +1575,11 @@ Washington Heights,All Households,2011,Dollars,40956.21678,112
 Manhattanville,All Households,2011,Dollars,43032.30823,109
 Central Harlem,All Households,2011,Dollars,38524.84668,110
 East Harlem,All Households,2011,Dollars,33675.18423,111
-Upper East Side,All Households,2011,Dollars,114666.7268,108
-Upper West Side,All Households,2011,Dollars,100437.0543,107
+Upper East Side,All Households,2011,Dollars,114666.72682,108
+Upper West Side,All Households,2011,Dollars,100437.05432,107
 Chelsea/Clinton,All Households,2011,Dollars,90487.0727,104
 Midtown Business District,All Households,2011,Dollars,90487.0727,105
-Murray Hill/Stuyvesant,All Households,2011,Dollars,110668.2074,106
+Murray Hill/Stuyvesant,All Households,2011,Dollars,110668.20738,106
 Lower East Side,All Households,2011,Dollars,42679.20921,103
 Battery Park/Tribeca,All Households,2011,Dollars,130631.3797,101
 Greenwich Village,All Households,2011,Dollars,130631.3797,102
@@ -1640,22 +1640,22 @@ Washington Heights,Families,2011,Dollars,40326.30557,112
 Manhattanville,Families,2011,Dollars,46708.24339,109
 Central Harlem,Families,2011,Dollars,41641.70839,110
 East Harlem,Families,2011,Dollars,39932.88351,111
-Upper East Side,Families,2011,Dollars,211261.1048,108
-Upper West Side,Families,2011,Dollars,154079.7701,107
-Chelsea/Clinton,Families,2011,Dollars,135751.3155,104
-Midtown Business District,Families,2011,Dollars,135751.3155,105
-Murray Hill/Stuyvesant,Families,2011,Dollars,182511.8698,106
+Upper East Side,Families,2011,Dollars,211261.10478,108
+Upper West Side,Families,2011,Dollars,154079.77011,107
+Chelsea/Clinton,Families,2011,Dollars,135751.31547,104
+Midtown Business District,Families,2011,Dollars,135751.31547,105
+Murray Hill/Stuyvesant,Families,2011,Dollars,182511.86983,106
 Lower East Side,Families,2011,Dollars,40740.43404,103
-Battery Park/Tribeca,Families,2011,Dollars,205004.4953,101
-Greenwich Village,Families,2011,Dollars,205004.4953,102
-Tottenville,Families,2011,Dollars,100762.908,503
+Battery Park/Tribeca,Families,2011,Dollars,205004.49531,101
+Greenwich Village,Families,2011,Dollars,205004.49531,102
+Tottenville,Families,2011,Dollars,100762.90804,503
 South Beach,Families,2011,Dollars,86490.73287,502
 St. George,Families,2011,Dollars,72407.09515,501
 Williamsburg/Greenpoint,Families,2011,Dollars,37412.14885,301
 Bushwick,Families,2011,Dollars,37130.9774,304
 Bedford Stuyvesant,Families,2011,Dollars,40050.58318,303
 Fort Greene/Brooklyn Hts,Families,2011,Dollars,76981.03522,302
-Park Slope,Families,2011,Dollars,120827.4329,306
+Park Slope,Families,2011,Dollars,120827.43286,306
 Crown Heights North,Families,2011,Dollars,46254.88169,308
 Brownsville,Families,2011,Dollars,29466.3311,316
 East New York,Families,2011,Dollars,36523.95224,305
@@ -1705,22 +1705,22 @@ Washington Heights,Families with Children,2011,Dollars,38402.78776,112
 Manhattanville,Families with Children,2011,Dollars,44516.63189,109
 Central Harlem,Families with Children,2011,Dollars,39192.90131,110
 East Harlem,Families with Children,2011,Dollars,33980.33153,111
-Upper East Side,Families with Children,2011,Dollars,272452.9468,108
-Upper West Side,Families with Children,2011,Dollars,197393.2498,107
-Chelsea/Clinton,Families with Children,2011,Dollars,130342.5796,104
-Midtown Business District,Families with Children,2011,Dollars,130342.5796,105
-Murray Hill/Stuyvesant,Families with Children,2011,Dollars,243920.5844,106
+Upper East Side,Families with Children,2011,Dollars,272452.94682,108
+Upper West Side,Families with Children,2011,Dollars,197393.24978,107
+Chelsea/Clinton,Families with Children,2011,Dollars,130342.57957,104
+Midtown Business District,Families with Children,2011,Dollars,130342.57957,105
+Murray Hill/Stuyvesant,Families with Children,2011,Dollars,243920.58442,106
 Lower East Side,Families with Children,2011,Dollars,39933.97332,103
-Battery Park/Tribeca,Families with Children,2011,Dollars,229561.2243,101
-Greenwich Village,Families with Children,2011,Dollars,229561.2243,102
-Tottenville,Families with Children,2011,Dollars,110830.5893,503
+Battery Park/Tribeca,Families with Children,2011,Dollars,229561.22431,101
+Greenwich Village,Families with Children,2011,Dollars,229561.22431,102
+Tottenville,Families with Children,2011,Dollars,110830.58933,503
 South Beach,Families with Children,2011,Dollars,86594.26499,502
 St. George,Families with Children,2011,Dollars,66925.34186,501
 Williamsburg/Greenpoint,Families with Children,2011,Dollars,29716.98782,301
 Bushwick,Families with Children,2011,Dollars,29703.91007,304
 Bedford Stuyvesant,Families with Children,2011,Dollars,33604.34646,303
 Fort Greene/Brooklyn Hts,Families with Children,2011,Dollars,85725.685,302
-Park Slope,Families with Children,2011,Dollars,132982.1037,306
+Park Slope,Families with Children,2011,Dollars,132982.10372,306
 Crown Heights North,Families with Children,2011,Dollars,32139.63942,308
 Brownsville,Families with Children,2011,Dollars,24069.58313,316
 East New York,Families with Children,2011,Dollars,33330.8037,305
@@ -1770,14 +1770,14 @@ Washington Heights,Families without Children,2011,Dollars,43459.51445,112
 Manhattanville,Families without Children,2011,Dollars,47926.65297,109
 Central Harlem,Families without Children,2011,Dollars,43022.49993,110
 East Harlem,Families without Children,2011,Dollars,46607.98071,111
-Upper East Side,Families without Children,2011,Dollars,179720.8618,108
-Upper West Side,Families without Children,2011,Dollars,129394.4433,107
-Chelsea/Clinton,Families without Children,2011,Dollars,135909.3382,104
-Midtown Business District,Families without Children,2011,Dollars,135909.3382,105
-Murray Hill/Stuyvesant,Families without Children,2011,Dollars,157281.6371,106
+Upper East Side,Families without Children,2011,Dollars,179720.86184,108
+Upper West Side,Families without Children,2011,Dollars,129394.44332,107
+Chelsea/Clinton,Families without Children,2011,Dollars,135909.33818,104
+Midtown Business District,Families without Children,2011,Dollars,135909.33818,105
+Murray Hill/Stuyvesant,Families without Children,2011,Dollars,157281.63714,106
 Lower East Side,Families without Children,2011,Dollars,41262.45389,103
-Battery Park/Tribeca,Families without Children,2011,Dollars,183116.7154,101
-Greenwich Village,Families without Children,2011,Dollars,183116.7154,102
+Battery Park/Tribeca,Families without Children,2011,Dollars,183116.71537,101
+Greenwich Village,Families without Children,2011,Dollars,183116.71537,102
 Tottenville,Families without Children,2011,Dollars,93760.86731,503
 South Beach,Families without Children,2011,Dollars,86394.82944,502
 St. George,Families without Children,2011,Dollars,83280.14735,501
@@ -1841,8 +1841,8 @@ Chelsea/Clinton,All Households,2012,Dollars,92129.05687,104
 Midtown Business District,All Households,2012,Dollars,92129.05687,105
 Murray Hill/Stuyvesant,All Households,2012,Dollars,98700.55086,106
 Lower East Side,All Households,2012,Dollars,43595.67986,103
-Battery Park/Tribeca,All Households,2012,Dollars,109853.0831,101
-Greenwich Village,All Households,2012,Dollars,109853.0831,102
+Battery Park/Tribeca,All Households,2012,Dollars,109853.08309,101
+Greenwich Village,All Households,2012,Dollars,109853.08309,102
 Tottenville,All Households,2012,Dollars,87629.17456,503
 South Beach,All Households,2012,Dollars,76133.86536,502
 St. George,All Households,2012,Dollars,60202.74431,501
@@ -1900,14 +1900,14 @@ Washington Heights,Families,2012,Dollars,41935.18698,112
 Manhattanville,Families,2012,Dollars,56343.56665,109
 Central Harlem,Families,2012,Dollars,44243.8594,110
 East Harlem,Families,2012,Dollars,33753.38864,111
-Upper East Side,Families,2012,Dollars,181919.5418,108
-Upper West Side,Families,2012,Dollars,161895.3859,107
-Chelsea/Clinton,Families,2012,Dollars,140628.263,104
-Midtown Business District,Families,2012,Dollars,140628.263,105
-Murray Hill/Stuyvesant,Families,2012,Dollars,155292.9245,106
+Upper East Side,Families,2012,Dollars,181919.54178,108
+Upper West Side,Families,2012,Dollars,161895.38588,107
+Chelsea/Clinton,Families,2012,Dollars,140628.26296,104
+Midtown Business District,Families,2012,Dollars,140628.26296,105
+Murray Hill/Stuyvesant,Families,2012,Dollars,155292.92449,106
 Lower East Side,Families,2012,Dollars,36072.73946,103
-Battery Park/Tribeca,Families,2012,Dollars,164819.1348,101
-Greenwich Village,Families,2012,Dollars,164819.1348,102
+Battery Park/Tribeca,Families,2012,Dollars,164819.13475,101
+Greenwich Village,Families,2012,Dollars,164819.13475,102
 Tottenville,Families,2012,Dollars,99192.8256,503
 South Beach,Families,2012,Dollars,93087.97816,502
 St. George,Families,2012,Dollars,74739.26491,501
@@ -1915,7 +1915,7 @@ Williamsburg/Greenpoint,Families,2012,Dollars,39855.03256,301
 Bushwick,Families,2012,Dollars,33603.89089,304
 Bedford Stuyvesant,Families,2012,Dollars,45613.8995,303
 Fort Greene/Brooklyn Hts,Families,2012,Dollars,96843.57523,302
-Park Slope,Families,2012,Dollars,112368.9167,306
+Park Slope,Families,2012,Dollars,112368.91667,306
 Crown Heights North,Families,2012,Dollars,47911.8935,308
 Brownsville,Families,2012,Dollars,34839.38302,316
 East New York,Families,2012,Dollars,42265.14988,305
@@ -1965,22 +1965,22 @@ Washington Heights,Families with Children,2012,Dollars,36319.41075,112
 Manhattanville,Families with Children,2012,Dollars,48754.42011,109
 Central Harlem,Families with Children,2012,Dollars,38730.59591,110
 East Harlem,Families with Children,2012,Dollars,32936.49022,111
-Upper East Side,Families with Children,2012,Dollars,222929.9784,108
-Upper West Side,Families with Children,2012,Dollars,189155.2329,107
-Chelsea/Clinton,Families with Children,2012,Dollars,155085.7633,104
-Midtown Business District,Families with Children,2012,Dollars,155085.7633,105
-Murray Hill/Stuyvesant,Families with Children,2012,Dollars,151553.345,106
+Upper East Side,Families with Children,2012,Dollars,222929.97839,108
+Upper West Side,Families with Children,2012,Dollars,189155.23292,107
+Chelsea/Clinton,Families with Children,2012,Dollars,155085.76332,104
+Midtown Business District,Families with Children,2012,Dollars,155085.76332,105
+Murray Hill/Stuyvesant,Families with Children,2012,Dollars,151553.34503,106
 Lower East Side,Families with Children,2012,Dollars,39689.5172,103
-Battery Park/Tribeca,Families with Children,2012,Dollars,218219.7314,101
-Greenwich Village,Families with Children,2012,Dollars,218219.7314,102
-Tottenville,Families with Children,2012,Dollars,102001.2476,503
+Battery Park/Tribeca,Families with Children,2012,Dollars,218219.73139,101
+Greenwich Village,Families with Children,2012,Dollars,218219.73139,102
+Tottenville,Families with Children,2012,Dollars,102001.24764,503
 South Beach,Families with Children,2012,Dollars,95906.01076,502
 St. George,Families with Children,2012,Dollars,66033.1566,501
 Williamsburg/Greenpoint,Families with Children,2012,Dollars,32385.48422,301
 Bushwick,Families with Children,2012,Dollars,28823.16638,304
 Bedford Stuyvesant,Families with Children,2012,Dollars,37834.67724,303
 Fort Greene/Brooklyn Hts,Families with Children,2012,Dollars,83520.1221,302
-Park Slope,Families with Children,2012,Dollars,138622.8574,306
+Park Slope,Families with Children,2012,Dollars,138622.85742,306
 Crown Heights North,Families with Children,2012,Dollars,41749.38264,308
 Brownsville,Families with Children,2012,Dollars,27405.07343,316
 East New York,Families with Children,2012,Dollars,33720.28557,305
@@ -2030,22 +2030,22 @@ Washington Heights,Families without Children,2012,Dollars,45249.76569,112
 Manhattanville,Families without Children,2012,Dollars,62624.60788,109
 Central Harlem,Families without Children,2012,Dollars,49853.22858,110
 East Harlem,Families without Children,2012,Dollars,35429.89914,111
-Upper East Side,Families without Children,2012,Dollars,169206.8937,108
-Upper West Side,Families without Children,2012,Dollars,141488.9429,107
-Chelsea/Clinton,Families without Children,2012,Dollars,133198.2247,104
-Midtown Business District,Families without Children,2012,Dollars,133198.2247,105
-Murray Hill/Stuyvesant,Families without Children,2012,Dollars,156544.4342,106
+Upper East Side,Families without Children,2012,Dollars,169206.89374,108
+Upper West Side,Families without Children,2012,Dollars,141488.94287,107
+Chelsea/Clinton,Families without Children,2012,Dollars,133198.22474,104
+Midtown Business District,Families without Children,2012,Dollars,133198.22474,105
+Murray Hill/Stuyvesant,Families without Children,2012,Dollars,156544.43423,106
 Lower East Side,Families without Children,2012,Dollars,33155.39764,103
-Battery Park/Tribeca,Families without Children,2012,Dollars,155111.3915,101
-Greenwich Village,Families without Children,2012,Dollars,155111.3915,102
+Battery Park/Tribeca,Families without Children,2012,Dollars,155111.39151,101
+Greenwich Village,Families without Children,2012,Dollars,155111.39151,102
 Tottenville,Families without Children,2012,Dollars,95773.59847,503
 South Beach,Families without Children,2012,Dollars,91338.85447,502
 St. George,Families without Children,2012,Dollars,87336.58611,501
 Williamsburg/Greenpoint,Families without Children,2012,Dollars,50295.31479,301
 Bushwick,Families without Children,2012,Dollars,43048.94523,304
 Bedford Stuyvesant,Families without Children,2012,Dollars,50406.37026,303
-Fort Greene/Brooklyn Hts,Families without Children,2012,Dollars,113543.5419,302
-Park Slope,Families without Children,2012,Dollars,100466.76,306
+Fort Greene/Brooklyn Hts,Families without Children,2012,Dollars,113543.54185,302
+Park Slope,Families without Children,2012,Dollars,100466.76001,306
 Crown Heights North,Families without Children,2012,Dollars,56220.76493,308
 Brownsville,Families without Children,2012,Dollars,43520.93099,316
 East New York,Families without Children,2012,Dollars,51819.124,305
@@ -2095,14 +2095,14 @@ Washington Heights,All Households,2013,Dollars,39430.64843,112
 Manhattanville,All Households,2013,Dollars,47996.30475,109
 Central Harlem,All Households,2013,Dollars,38857.00838,110
 East Harlem,All Households,2013,Dollars,28356.76417,111
-Upper East Side,All Households,2013,Dollars,113349.1679,108
-Upper West Side,All Households,2013,Dollars,104489.85,107
-Chelsea/Clinton,All Households,2013,Dollars,105923.4239,104
-Midtown Business District,All Households,2013,Dollars,105923.4239,105
+Upper East Side,All Households,2013,Dollars,113349.16794,108
+Upper West Side,All Households,2013,Dollars,104489.85002,107
+Chelsea/Clinton,All Households,2013,Dollars,105923.42386,104
+Midtown Business District,All Households,2013,Dollars,105923.42386,105
 Murray Hill/Stuyvesant,All Households,2013,Dollars,113756.505,106
 Lower East Side,All Households,2013,Dollars,42242.01093,103
-Battery Park/Tribeca,All Households,2013,Dollars,131896.1611,101
-Greenwich Village,All Households,2013,Dollars,131896.1611,102
+Battery Park/Tribeca,All Households,2013,Dollars,131896.16105,101
+Greenwich Village,All Households,2013,Dollars,131896.16105,102
 Tottenville,All Households,2013,Dollars,89640.46697,503
 South Beach,All Households,2013,Dollars,72269.17281,502
 St. George,All Households,2013,Dollars,63911.9215,501
@@ -2110,7 +2110,7 @@ Williamsburg/Greenpoint,All Households,2013,Dollars,55173.6469,301
 Bushwick,All Households,2013,Dollars,45632.27623,304
 Bedford Stuyvesant,All Households,2013,Dollars,39149.61743,303
 Fort Greene/Brooklyn Hts,All Households,2013,Dollars,80035.94326,302
-Park Slope,All Households,2013,Dollars,107138.0672,306
+Park Slope,All Households,2013,Dollars,107138.06719,306
 Crown Heights North,All Households,2013,Dollars,41085.25788,308
 Brownsville,All Households,2013,Dollars,29400.89431,316
 East New York,All Households,2013,Dollars,38884.3747,305
@@ -2160,22 +2160,22 @@ Washington Heights,Families,2013,Dollars,43947.14281,112
 Manhattanville,Families,2013,Dollars,51196.0584,109
 Central Harlem,Families,2013,Dollars,43399.81653,110
 East Harlem,Families,2013,Dollars,35596.2068,111
-Upper East Side,Families,2013,Dollars,199615.1579,108
-Upper West Side,Families,2013,Dollars,190666.3732,107
+Upper East Side,Families,2013,Dollars,199615.15787,108
+Upper West Side,Families,2013,Dollars,190666.37315,107
 Chelsea/Clinton,Families,2013,Dollars,160306.6053,104
 Midtown Business District,Families,2013,Dollars,160306.6053,105
-Murray Hill/Stuyvesant,Families,2013,Dollars,159911.8989,106
+Murray Hill/Stuyvesant,Families,2013,Dollars,159911.89885,106
 Lower East Side,Families,2013,Dollars,38065.49038,103
-Battery Park/Tribeca,Families,2013,Dollars,190202.1984,101
-Greenwich Village,Families,2013,Dollars,190202.1984,102
-Tottenville,Families,2013,Dollars,106023.4162,503
+Battery Park/Tribeca,Families,2013,Dollars,190202.19836,101
+Greenwich Village,Families,2013,Dollars,190202.19836,102
+Tottenville,Families,2013,Dollars,106023.41616,503
 South Beach,Families,2013,Dollars,93750.67683,502
 St. George,Families,2013,Dollars,75504.71318,501
 Williamsburg/Greenpoint,Families,2013,Dollars,52228.61048,301
 Bushwick,Families,2013,Dollars,47893.15479,304
 Bedford Stuyvesant,Families,2013,Dollars,39100.14756,303
 Fort Greene/Brooklyn Hts,Families,2013,Dollars,90488.8227,302
-Park Slope,Families,2013,Dollars,138950.3548,306
+Park Slope,Families,2013,Dollars,138950.35479,306
 Crown Heights North,Families,2013,Dollars,47194.26123,308
 Brownsville,Families,2013,Dollars,33805.81833,316
 East New York,Families,2013,Dollars,44261.85542,305
@@ -2225,22 +2225,22 @@ Washington Heights,Families with Children,2013,Dollars,36523.50383,112
 Manhattanville,Families with Children,2013,Dollars,48396.27395,109
 Central Harlem,Families with Children,2013,Dollars,32599.59541,110
 East Harlem,Families with Children,2013,Dollars,32937.46413,111
-Upper East Side,Families with Children,2013,Dollars,241345.6292,108
-Upper West Side,Families with Children,2013,Dollars,200920.3205,107
-Chelsea/Clinton,Families with Children,2013,Dollars,167352.3786,104
-Midtown Business District,Families with Children,2013,Dollars,167352.3786,105
-Murray Hill/Stuyvesant,Families with Children,2013,Dollars,213818.2749,106
+Upper East Side,Families with Children,2013,Dollars,241345.62923,108
+Upper West Side,Families with Children,2013,Dollars,200920.32054,107
+Chelsea/Clinton,Families with Children,2013,Dollars,167352.37863,104
+Midtown Business District,Families with Children,2013,Dollars,167352.37863,105
+Murray Hill/Stuyvesant,Families with Children,2013,Dollars,213818.27489,106
 Lower East Side,Families with Children,2013,Dollars,30532.38614,103
-Battery Park/Tribeca,Families with Children,2013,Dollars,211383.7255,101
-Greenwich Village,Families with Children,2013,Dollars,211383.7255,102
-Tottenville,Families with Children,2013,Dollars,109336.8453,503
+Battery Park/Tribeca,Families with Children,2013,Dollars,211383.72548,101
+Greenwich Village,Families with Children,2013,Dollars,211383.72548,102
+Tottenville,Families with Children,2013,Dollars,109336.84527,503
 South Beach,Families with Children,2013,Dollars,96835.70248,502
 St. George,Families with Children,2013,Dollars,62333.09569,501
 Williamsburg/Greenpoint,Families with Children,2013,Dollars,49362.51535,301
 Bushwick,Families with Children,2013,Dollars,40230.58684,304
 Bedford Stuyvesant,Families with Children,2013,Dollars,32931.14883,303
-Fort Greene/Brooklyn Hts,Families with Children,2013,Dollars,102815.2421,302
-Park Slope,Families with Children,2013,Dollars,173487.6957,306
+Fort Greene/Brooklyn Hts,Families with Children,2013,Dollars,102815.24211,302
+Park Slope,Families with Children,2013,Dollars,173487.69574,306
 Crown Heights North,Families with Children,2013,Dollars,38434.93562,308
 Brownsville,Families with Children,2013,Dollars,28391.49834,316
 East New York,Families with Children,2013,Dollars,38031.80876,305
@@ -2261,7 +2261,7 @@ Bayside,Families with Children,2013,Dollars,80082.25549,411
 Queens Village,Families with Children,2013,Dollars,86353.35162,413
 Fresh Meadows/Briarwood,Families with Children,2013,Dollars,67850.56563,408
 Elmhurst/Corona,Families with Children,2013,Dollars,49829.84779,404
-Rego Park/Forest Hills,Families with Children,2013,Dollars,105733.9648,406
+Rego Park/Forest Hills,Families with Children,2013,Dollars,105733.96476,406
 Sunnyside/Woodside,Families with Children,2013,Dollars,52590.68786,402
 Ridgewood/Glendale,Families with Children,2013,Dollars,75160.52915,405
 Woodhaven,Families with Children,2013,Dollars,63263.55037,409
@@ -2290,14 +2290,14 @@ Washington Heights,Families without Children,2013,Dollars,48819.39927,112
 Manhattanville,Families without Children,2013,Dollars,56015.68733,109
 Central Harlem,Families without Children,2013,Dollars,50732.93616,110
 East Harlem,Families without Children,2013,Dollars,40017.97163,111
-Upper East Side,Families without Children,2013,Dollars,179671.4302,108
-Upper West Side,Families without Children,2013,Dollars,174660.2371,107
-Chelsea/Clinton,Families without Children,2013,Dollars,149720.0519,104
-Midtown Business District,Families without Children,2013,Dollars,149720.0519,105
-Murray Hill/Stuyvesant,Families without Children,2013,Dollars,151733.5811,106
+Upper East Side,Families without Children,2013,Dollars,179671.43018,108
+Upper West Side,Families without Children,2013,Dollars,174660.23705,107
+Chelsea/Clinton,Families without Children,2013,Dollars,149720.05194,104
+Midtown Business District,Families without Children,2013,Dollars,149720.05194,105
+Murray Hill/Stuyvesant,Families without Children,2013,Dollars,151733.58113,106
 Lower East Side,Families without Children,2013,Dollars,41607.32295,103
-Battery Park/Tribeca,Families without Children,2013,Dollars,177046.3691,101
-Greenwich Village,Families without Children,2013,Dollars,177046.3691,102
+Battery Park/Tribeca,Families without Children,2013,Dollars,177046.36913,101
+Greenwich Village,Families without Children,2013,Dollars,177046.36913,102
 Tottenville,Families without Children,2013,Dollars,102696.3039,503
 South Beach,Families without Children,2013,Dollars,90216.21211,502
 St. George,Families without Children,2013,Dollars,81450.57119,501
@@ -2305,7 +2305,7 @@ Williamsburg/Greenpoint,Families without Children,2013,Dollars,55936.74604,301
 Bushwick,Families without Children,2013,Dollars,54318.97586,304
 Bedford Stuyvesant,Families without Children,2013,Dollars,52263.34465,303
 Fort Greene/Brooklyn Hts,Families without Children,2013,Dollars,83212.5408,302
-Park Slope,Families without Children,2013,Dollars,106160.2477,306
+Park Slope,Families without Children,2013,Dollars,106160.24773,306
 Crown Heights North,Families without Children,2013,Dollars,57563.98918,308
 Brownsville,Families without Children,2013,Dollars,42869.33105,316
 East New York,Families without Children,2013,Dollars,51832.85147,305
@@ -2355,14 +2355,14 @@ Washington Heights,All Households,2014,Dollars,46764.73406,112
 Manhattanville,All Households,2014,Dollars,43738.70148,109
 Central Harlem,All Households,2014,Dollars,42008.20852,110
 East Harlem,All Households,2014,Dollars,32455.80453,111
-Upper East Side,All Households,2014,Dollars,119340.8425,108
-Upper West Side,All Households,2014,Dollars,109961.3842,107
-Chelsea/Clinton,All Households,2014,Dollars,102070.0878,104
-Midtown Business District,All Households,2014,Dollars,102070.0878,105
-Murray Hill/Stuyvesant,All Households,2014,Dollars,109385.5888,106
+Upper East Side,All Households,2014,Dollars,119340.84247,108
+Upper West Side,All Households,2014,Dollars,109961.38422,107
+Chelsea/Clinton,All Households,2014,Dollars,102070.08777,104
+Midtown Business District,All Households,2014,Dollars,102070.08777,105
+Murray Hill/Stuyvesant,All Households,2014,Dollars,109385.58883,106
 Lower East Side,All Households,2014,Dollars,42838.7623,103
-Battery Park/Tribeca,All Households,2014,Dollars,124469.1496,101
-Greenwich Village,All Households,2014,Dollars,124469.1496,102
+Battery Park/Tribeca,All Households,2014,Dollars,124469.14955,101
+Greenwich Village,All Households,2014,Dollars,124469.14955,102
 Tottenville,All Households,2014,Dollars,85663.02615,503
 South Beach,All Households,2014,Dollars,74003.16963,502
 St. George,All Households,2014,Dollars,59652.81598,501
@@ -2370,7 +2370,7 @@ Williamsburg/Greenpoint,All Households,2014,Dollars,59876.50627,301
 Bushwick,All Households,2014,Dollars,41925.36027,304
 Bedford Stuyvesant,All Households,2014,Dollars,35912.64804,303
 Fort Greene/Brooklyn Hts,All Households,2014,Dollars,87578.89208,302
-Park Slope,All Households,2014,Dollars,117069.7646,306
+Park Slope,All Households,2014,Dollars,117069.76463,306
 Crown Heights North,All Households,2014,Dollars,46502.72645,308
 Brownsville,All Households,2014,Dollars,26158.30143,316
 East New York,All Households,2014,Dollars,34170.76345,305
@@ -2420,21 +2420,21 @@ Washington Heights,Families,2014,Dollars,48676.45758,112
 Manhattanville,Families,2014,Dollars,50380.02486,109
 Central Harlem,Families,2014,Dollars,49543.25746,110
 East Harlem,Families,2014,Dollars,37711.49081,111
-Upper East Side,Families,2014,Dollars,194755.5393,108
-Upper West Side,Families,2014,Dollars,178446.86,107
+Upper East Side,Families,2014,Dollars,194755.53927,108
+Upper West Side,Families,2014,Dollars,178446.85996,107
 Chelsea/Clinton,Families,2014,Dollars,145757.0091,104
 Midtown Business District,Families,2014,Dollars,145757.0091,105
-Murray Hill/Stuyvesant,Families,2014,Dollars,178372.2965,106
+Murray Hill/Stuyvesant,Families,2014,Dollars,178372.29652,106
 Lower East Side,Families,2014,Dollars,44152.94277,103
-Battery Park/Tribeca,Families,2014,Dollars,173063.7945,101
-Greenwich Village,Families,2014,Dollars,173063.7945,102
+Battery Park/Tribeca,Families,2014,Dollars,173063.79448,101
+Greenwich Village,Families,2014,Dollars,173063.79448,102
 Tottenville,Families,2014,Dollars,96052.19753,503
 South Beach,Families,2014,Dollars,83486.18821,502
 St. George,Families,2014,Dollars,72121.4786,501
 Williamsburg/Greenpoint,Families,2014,Dollars,55019.52723,301
 Bushwick,Families,2014,Dollars,37204.04524,304
 Bedford Stuyvesant,Families,2014,Dollars,41089.62848,303
-Fort Greene/Brooklyn Hts,Families,2014,Dollars,104568.9983,302
+Fort Greene/Brooklyn Hts,Families,2014,Dollars,104568.99831,302
 Park Slope,Families,2014,Dollars,151439.3639,306
 Crown Heights North,Families,2014,Dollars,54101.98279,308
 Brownsville,Families,2014,Dollars,33050.24078,316
@@ -2485,22 +2485,22 @@ Washington Heights,Families with Children,2014,Dollars,44316.56807,112
 Manhattanville,Families with Children,2014,Dollars,66607.92712,109
 Central Harlem,Families with Children,2014,Dollars,42365.49163,110
 East Harlem,Families with Children,2014,Dollars,38101.91322,111
-Upper East Side,Families with Children,2014,Dollars,229217.3072,108
-Upper West Side,Families with Children,2014,Dollars,256435.0307,107
-Chelsea/Clinton,Families with Children,2014,Dollars,140128.5057,104
-Midtown Business District,Families with Children,2014,Dollars,140128.5057,105
-Murray Hill/Stuyvesant,Families with Children,2014,Dollars,208842.8497,106
+Upper East Side,Families with Children,2014,Dollars,229217.30722,108
+Upper West Side,Families with Children,2014,Dollars,256435.03073,107
+Chelsea/Clinton,Families with Children,2014,Dollars,140128.50566,104
+Midtown Business District,Families with Children,2014,Dollars,140128.50566,105
+Murray Hill/Stuyvesant,Families with Children,2014,Dollars,208842.84971,106
 Lower East Side,Families with Children,2014,Dollars,50214.32834,103
-Battery Park/Tribeca,Families with Children,2014,Dollars,217711.7556,101
-Greenwich Village,Families with Children,2014,Dollars,217711.7556,102
+Battery Park/Tribeca,Families with Children,2014,Dollars,217711.75558,101
+Greenwich Village,Families with Children,2014,Dollars,217711.75558,102
 Tottenville,Families with Children,2014,Dollars,93723.12592,503
 South Beach,Families with Children,2014,Dollars,85192.86229,502
 St. George,Families with Children,2014,Dollars,66265.14246,501
 Williamsburg/Greenpoint,Families with Children,2014,Dollars,43512.93999,301
 Bushwick,Families with Children,2014,Dollars,34695.81427,304
 Bedford Stuyvesant,Families with Children,2014,Dollars,32842.08453,303
-Fort Greene/Brooklyn Hts,Families with Children,2014,Dollars,116452.5451,302
-Park Slope,Families with Children,2014,Dollars,170666.3731,306
+Fort Greene/Brooklyn Hts,Families with Children,2014,Dollars,116452.54512,302
+Park Slope,Families with Children,2014,Dollars,170666.37305,306
 Crown Heights North,Families with Children,2014,Dollars,43272.68004,308
 Brownsville,Families with Children,2014,Dollars,23102.23636,316
 East New York,Families with Children,2014,Dollars,33877.68774,305
@@ -2521,7 +2521,7 @@ Bayside,Families with Children,2014,Dollars,90278.70965,411
 Queens Village,Families with Children,2014,Dollars,83137.18992,413
 Fresh Meadows/Briarwood,Families with Children,2014,Dollars,58650.35207,408
 Elmhurst/Corona,Families with Children,2014,Dollars,38647.67611,404
-Rego Park/Forest Hills,Families with Children,2014,Dollars,112515.1817,406
+Rego Park/Forest Hills,Families with Children,2014,Dollars,112515.18173,406
 Sunnyside/Woodside,Families with Children,2014,Dollars,48882.54262,402
 Ridgewood/Glendale,Families with Children,2014,Dollars,72836.04482,405
 Woodhaven,Families with Children,2014,Dollars,58678.31336,409
@@ -2530,7 +2530,7 @@ Howard Beach,Families with Children,2014,Dollars,67338.02739,410
 The Rockaways,Families with Children,2014,Dollars,56025.09794,414
 Bronx,Families with Children,2014,Dollars,32327.38974,36005
 Brooklyn,Families with Children,2014,Dollars,48497.29822,36047
-Manhattan,Families with Children,2014,Dollars,102805.3661,36061
+Manhattan,Families with Children,2014,Dollars,102805.36605,36061
 Queens,Families with Children,2014,Dollars,59020.06242,36081
 Staten Island,Families with Children,2014,Dollars,81189.22029,36085
 New York City,Families with Children,2014,Dollars,52651.10269,3651000
@@ -2550,14 +2550,14 @@ Washington Heights,Families without Children,2014,Dollars,50662.74453,112
 Manhattanville,Families without Children,2014,Dollars,46515.15368,109
 Central Harlem,Families without Children,2014,Dollars,58013.4561,110
 East Harlem,Families without Children,2014,Dollars,37160.54991,111
-Upper East Side,Families without Children,2014,Dollars,168409.7937,108
-Upper West Side,Families without Children,2014,Dollars,144410.7249,107
-Chelsea/Clinton,Families without Children,2014,Dollars,156188.6402,104
-Midtown Business District,Families without Children,2014,Dollars,156188.6402,105
-Murray Hill/Stuyvesant,Families without Children,2014,Dollars,171298.091,106
+Upper East Side,Families without Children,2014,Dollars,168409.79366,108
+Upper West Side,Families without Children,2014,Dollars,144410.72493,107
+Chelsea/Clinton,Families without Children,2014,Dollars,156188.64021,104
+Midtown Business District,Families without Children,2014,Dollars,156188.64021,105
+Murray Hill/Stuyvesant,Families without Children,2014,Dollars,171298.09101,106
 Lower East Side,Families without Children,2014,Dollars,41407.55866,103
-Battery Park/Tribeca,Families without Children,2014,Dollars,164300.5201,101
-Greenwich Village,Families without Children,2014,Dollars,164300.5201,102
+Battery Park/Tribeca,Families without Children,2014,Dollars,164300.52014,101
+Greenwich Village,Families without Children,2014,Dollars,164300.52014,102
 Tottenville,Families without Children,2014,Dollars,97816.8654,503
 South Beach,Families without Children,2014,Dollars,81004.88292,502
 St. George,Families without Children,2014,Dollars,75718.12854,501
@@ -2565,7 +2565,7 @@ Williamsburg/Greenpoint,Families without Children,2014,Dollars,66713.55865,301
 Bushwick,Families without Children,2014,Dollars,44652.10351,304
 Bedford Stuyvesant,Families without Children,2014,Dollars,51706.63257,303
 Fort Greene/Brooklyn Hts,Families without Children,2014,Dollars,99070.98088,302
-Park Slope,Families without Children,2014,Dollars,123681.0555,306
+Park Slope,Families without Children,2014,Dollars,123681.05551,306
 Crown Heights North,Families without Children,2014,Dollars,59888.93351,308
 Brownsville,Families without Children,2014,Dollars,43596.82385,316
 East New York,Families without Children,2014,Dollars,47479.30027,305
@@ -2615,14 +2615,14 @@ Washington Heights,All Households,2015,Dollars,46867.20881,112
 Manhattanville,All Households,2015,Dollars,50358.35452,109
 Central Harlem,All Households,2015,Dollars,47627.50276,110
 East Harlem,All Households,2015,Dollars,31093.43669,111
-Upper East Side,All Households,2015,Dollars,105978.7707,108
-Upper West Side,All Households,2015,Dollars,104516.11,107
-Chelsea/Clinton,All Households,2015,Dollars,105795.6795,104
-Midtown Business District,All Households,2015,Dollars,105795.6795,105
+Upper East Side,All Households,2015,Dollars,105978.77073,108
+Upper West Side,All Households,2015,Dollars,104516.10998,107
+Chelsea/Clinton,All Households,2015,Dollars,105795.67953,104
+Midtown Business District,All Households,2015,Dollars,105795.67953,105
 Murray Hill/Stuyvesant,All Households,2015,Dollars,110529.1559,106
 Lower East Side,All Households,2015,Dollars,43722.59164,103
-Battery Park/Tribeca,All Households,2015,Dollars,126355.6831,101
-Greenwich Village,All Households,2015,Dollars,126355.6831,102
+Battery Park/Tribeca,All Households,2015,Dollars,126355.68311,101
+Greenwich Village,All Households,2015,Dollars,126355.68311,102
 Tottenville,All Households,2015,Dollars,84002.65501,503
 South Beach,All Households,2015,Dollars,76416.26608,502
 St. George,All Households,2015,Dollars,57807.16644,501
@@ -2630,7 +2630,7 @@ Williamsburg/Greenpoint,All Households,2015,Dollars,69416.38964,301
 Bushwick,All Households,2015,Dollars,44679.42417,304
 Bedford Stuyvesant,All Households,2015,Dollars,40904.84915,303
 Fort Greene/Brooklyn Hts,All Households,2015,Dollars,89634.00233,302
-Park Slope,All Households,2015,Dollars,115306.0777,306
+Park Slope,All Households,2015,Dollars,115306.07765,306
 Crown Heights North,All Households,2015,Dollars,47290.28395,308
 Brownsville,All Households,2015,Dollars,27992.26489,316
 East New York,All Households,2015,Dollars,36306.88095,305
@@ -2680,22 +2680,22 @@ Washington Heights,Families,2015,Dollars,51826.18734,112
 Manhattanville,Families,2015,Dollars,54006.73108,109
 Central Harlem,Families,2015,Dollars,52443.73222,110
 East Harlem,Families,2015,Dollars,33999.10433,111
-Upper East Side,Families,2015,Dollars,208528.4606,108
-Upper West Side,Families,2015,Dollars,164630.0186,107
-Chelsea/Clinton,Families,2015,Dollars,165585.8167,104
-Midtown Business District,Families,2015,Dollars,165585.8167,105
+Upper East Side,Families,2015,Dollars,208528.46056,108
+Upper West Side,Families,2015,Dollars,164630.01862,107
+Chelsea/Clinton,Families,2015,Dollars,165585.81673,104
+Midtown Business District,Families,2015,Dollars,165585.81673,105
 Murray Hill/Stuyvesant,Families,2015,Dollars,196631.6704,106
 Lower East Side,Families,2015,Dollars,35465.90274,103
-Battery Park/Tribeca,Families,2015,Dollars,207273.7169,101
-Greenwich Village,Families,2015,Dollars,207273.7169,102
+Battery Park/Tribeca,Families,2015,Dollars,207273.71693,101
+Greenwich Village,Families,2015,Dollars,207273.71693,102
 Tottenville,Families,2015,Dollars,98660.29491,503
 South Beach,Families,2015,Dollars,92424.85007,502
 St. George,Families,2015,Dollars,69870.49718,501
 Williamsburg/Greenpoint,Families,2015,Dollars,67298.94511,301
 Bushwick,Families,2015,Dollars,42361.30342,304
 Bedford Stuyvesant,Families,2015,Dollars,49548.40871,303
-Fort Greene/Brooklyn Hts,Families,2015,Dollars,109836.0988,302
-Park Slope,Families,2015,Dollars,151091.6142,306
+Fort Greene/Brooklyn Hts,Families,2015,Dollars,109836.09883,302
+Park Slope,Families,2015,Dollars,151091.61417,306
 Crown Heights North,Families,2015,Dollars,45136.63495,308
 Brownsville,Families,2015,Dollars,37377.49897,316
 East New York,Families,2015,Dollars,44528.39979,305
@@ -2747,20 +2747,20 @@ Central Harlem,Families with Children,2015,Dollars,47216.84059,110
 East Harlem,Families with Children,2015,Dollars,24701.79541,111
 Upper East Side,Families with Children,2015,Dollars,238487.1456,108
 Upper West Side,Families with Children,2015,Dollars,223104.3818,107
-Chelsea/Clinton,Families with Children,2015,Dollars,162539.4689,104
-Midtown Business District,Families with Children,2015,Dollars,162539.4689,105
-Murray Hill/Stuyvesant,Families with Children,2015,Dollars,258603.3858,106
+Chelsea/Clinton,Families with Children,2015,Dollars,162539.46885,104
+Midtown Business District,Families with Children,2015,Dollars,162539.46885,105
+Murray Hill/Stuyvesant,Families with Children,2015,Dollars,258603.38577,106
 Lower East Side,Families with Children,2015,Dollars,34973.52189,103
-Battery Park/Tribeca,Families with Children,2015,Dollars,258603.3858,101
-Greenwich Village,Families with Children,2015,Dollars,258603.3858,102
-Tottenville,Families with Children,2015,Dollars,102983.1091,503
+Battery Park/Tribeca,Families with Children,2015,Dollars,258603.38577,101
+Greenwich Village,Families with Children,2015,Dollars,258603.38577,102
+Tottenville,Families with Children,2015,Dollars,102983.10911,503
 South Beach,Families with Children,2015,Dollars,94029.22548,502
 St. George,Families with Children,2015,Dollars,65297.35491,501
 Williamsburg/Greenpoint,Families with Children,2015,Dollars,60040.46528,301
 Bushwick,Families with Children,2015,Dollars,36114.48003,304
 Bedford Stuyvesant,Families with Children,2015,Dollars,38063.31514,303
-Fort Greene/Brooklyn Hts,Families with Children,2015,Dollars,115505.7195,302
-Park Slope,Families with Children,2015,Dollars,171270.9536,306
+Fort Greene/Brooklyn Hts,Families with Children,2015,Dollars,115505.71946,302
+Park Slope,Families with Children,2015,Dollars,171270.95357,306
 Crown Heights North,Families with Children,2015,Dollars,36326.53481,308
 Brownsville,Families with Children,2015,Dollars,31559.9572,316
 East New York,Families with Children,2015,Dollars,41648.59248,305
@@ -2781,7 +2781,7 @@ Bayside,Families with Children,2015,Dollars,91538.35767,411
 Queens Village,Families with Children,2015,Dollars,89086.79757,413
 Fresh Meadows/Briarwood,Families with Children,2015,Dollars,62449.61442,408
 Elmhurst/Corona,Families with Children,2015,Dollars,37581.27843,404
-Rego Park/Forest Hills,Families with Children,2015,Dollars,100534.6523,406
+Rego Park/Forest Hills,Families with Children,2015,Dollars,100534.65225,406
 Sunnyside/Woodside,Families with Children,2015,Dollars,53569.17416,402
 Ridgewood/Glendale,Families with Children,2015,Dollars,59626.69986,405
 Woodhaven,Families with Children,2015,Dollars,57376.85041,409
@@ -2810,22 +2810,22 @@ Washington Heights,Families without Children,2015,Dollars,56468.63532,112
 Manhattanville,Families without Children,2015,Dollars,53585.72477,109
 Central Harlem,Families without Children,2015,Dollars,58750.55159,110
 East Harlem,Families without Children,2015,Dollars,46457.58105,111
-Upper East Side,Families without Children,2015,Dollars,198850.4875,108
-Upper West Side,Families without Children,2015,Dollars,141919.4693,107
-Chelsea/Clinton,Families without Children,2015,Dollars,166867.4551,104
-Midtown Business District,Families without Children,2015,Dollars,166867.4551,105
+Upper East Side,Families without Children,2015,Dollars,198850.48745,108
+Upper West Side,Families without Children,2015,Dollars,141919.46928,107
+Chelsea/Clinton,Families without Children,2015,Dollars,166867.45511,104
+Midtown Business District,Families without Children,2015,Dollars,166867.45511,105
 Murray Hill/Stuyvesant,Families without Children,2015,Dollars,176772.9992,106
 Lower East Side,Families without Children,2015,Dollars,35529.00196,103
-Battery Park/Tribeca,Families without Children,2015,Dollars,161983.9888,101
-Greenwich Village,Families without Children,2015,Dollars,161983.9888,102
+Battery Park/Tribeca,Families without Children,2015,Dollars,161983.98878,101
+Greenwich Village,Families without Children,2015,Dollars,161983.98878,102
 Tottenville,Families without Children,2015,Dollars,92719.65793,503
 South Beach,Families without Children,2015,Dollars,90733.58393,502
 St. George,Families without Children,2015,Dollars,74717.75904,501
 Williamsburg/Greenpoint,Families without Children,2015,Dollars,68334.39307,301
 Bushwick,Families without Children,2015,Dollars,45446.95902,304
 Bedford Stuyvesant,Families without Children,2015,Dollars,57142.03853,303
-Fort Greene/Brooklyn Hts,Families without Children,2015,Dollars,103476.5244,302
-Park Slope,Families without Children,2015,Dollars,135945.7311,306
+Fort Greene/Brooklyn Hts,Families without Children,2015,Dollars,103476.52437,302
+Park Slope,Families without Children,2015,Dollars,135945.73107,306
 Crown Heights North,Families without Children,2015,Dollars,57600.28373,308
 Brownsville,Families without Children,2015,Dollars,46686.18644,316
 East New York,Families without Children,2015,Dollars,47866.45229,305
@@ -2875,14 +2875,14 @@ Washington Heights,All Households,2016,Dollars,53149.94624,112
 Manhattanville,All Households,2016,Dollars,50088.49462,109
 Central Harlem,All Households,2016,Dollars,46625.5914,110
 East Harlem,All Households,2016,Dollars,35163.27957,111
-Upper East Side,All Households,2016,Dollars,119486.5054,108
-Upper West Side,All Households,2016,Dollars,113662.9032,107
-Chelsea/Clinton,All Households,2016,Dollars,103733.871,104
-Midtown Business District,All Households,2016,Dollars,103733.871,105
-Murray Hill/Stuyvesant,All Households,2016,Dollars,112775.2151,106
+Upper East Side,All Households,2016,Dollars,119486.50538,108
+Upper West Side,All Households,2016,Dollars,113662.90323,107
+Chelsea/Clinton,All Households,2016,Dollars,103733.87097,104
+Midtown Business District,All Households,2016,Dollars,103733.87097,105
+Murray Hill/Stuyvesant,All Households,2016,Dollars,112775.21505,106
 Lower East Side,All Households,2016,Dollars,42093.17204,103
-Battery Park/Tribeca,All Households,2016,Dollars,140160.7527,101
-Greenwich Village,All Households,2016,Dollars,140160.7527,102
+Battery Park/Tribeca,All Households,2016,Dollars,140160.75269,101
+Greenwich Village,All Households,2016,Dollars,140160.75269,102
 Tottenville,All Households,2016,Dollars,91967.15054,503
 South Beach,All Households,2016,Dollars,83919.73118,502
 St. George,All Households,2016,Dollars,66985.21505,501
@@ -2890,7 +2890,7 @@ Williamsburg/Greenpoint,All Households,2016,Dollars,71188.70968,301
 Bushwick,All Households,2016,Dollars,49471.50538,304
 Bedford Stuyvesant,All Households,2016,Dollars,52541.12903,303
 Fort Greene/Brooklyn Hts,All Households,2016,Dollars,88857.68817,302
-Park Slope,All Households,2016,Dollars,106106.828,306
+Park Slope,All Households,2016,Dollars,106106.82796,306
 Crown Heights North,All Households,2016,Dollars,53004.89247,308
 Brownsville,All Households,2016,Dollars,30856.6129,316
 East New York,All Households,2016,Dollars,38694.62366,305
@@ -2940,22 +2940,22 @@ Washington Heights,Families,2016,Dollars,55889.62366,112
 Manhattanville,Families,2016,Dollars,53593.27957,109
 Central Harlem,Families,2016,Dollars,52971.1828,110
 East Harlem,Families,2016,Dollars,38541.39785,111
-Upper East Side,Families,2016,Dollars,206527.957,108
-Upper West Side,Families,2016,Dollars,188913.1183,107
-Chelsea/Clinton,Families,2016,Dollars,174579.3548,104
-Midtown Business District,Families,2016,Dollars,174579.3548,105
-Murray Hill/Stuyvesant,Families,2016,Dollars,193472.0968,106
+Upper East Side,Families,2016,Dollars,206527.95699,108
+Upper West Side,Families,2016,Dollars,188913.11828,107
+Chelsea/Clinton,Families,2016,Dollars,174579.35484,104
+Midtown Business District,Families,2016,Dollars,174579.35484,105
+Murray Hill/Stuyvesant,Families,2016,Dollars,193472.09677,106
 Lower East Side,Families,2016,Dollars,44101.45161,103
-Battery Park/Tribeca,Families,2016,Dollars,230535.3763,101
-Greenwich Village,Families,2016,Dollars,230535.3763,102
+Battery Park/Tribeca,Families,2016,Dollars,230535.37634,101
+Greenwich Village,Families,2016,Dollars,230535.37634,102
 Tottenville,Families,2016,Dollars,103967.7957,503
-South Beach,Families,2016,Dollars,103506.0753,502
+South Beach,Families,2016,Dollars,103506.07527,502
 St. George,Families,2016,Dollars,77064.4086,501
 Williamsburg/Greenpoint,Families,2016,Dollars,59415.86022,301
 Bushwick,Families,2016,Dollars,41991.02151,304
 Bedford Stuyvesant,Families,2016,Dollars,57365.69892,303
 Fort Greene/Brooklyn Hts,Families,2016,Dollars,108414.4086,302
-Park Slope,Families,2016,Dollars,145811.7204,306
+Park Slope,Families,2016,Dollars,145811.72043,306
 Crown Heights North,Families,2016,Dollars,60113.54839,308
 Brownsville,Families,2016,Dollars,45428.3871,316
 East New York,Families,2016,Dollars,43570.26882,305
@@ -2985,7 +2985,7 @@ Howard Beach,Families,2016,Dollars,79834.73118,410
 The Rockaways,Families,2016,Dollars,56775.26882,414
 Bronx,Families,2016,Dollars,43518.17204,36005
 Brooklyn,Families,2016,Dollars,63322.09677,36047
-Manhattan,Families,2016,Dollars,101328.2258,36061
+Manhattan,Families,2016,Dollars,101328.22581,36061
 Queens,Families,2016,Dollars,72054.94624,36081
 Staten Island,Families,2016,Dollars,95095,36085
 New York City,Families,2016,Dollars,66847.31183,3651000
@@ -3005,22 +3005,22 @@ Washington Heights,Families with Children,2016,Dollars,39487.31183,112
 Manhattanville,Families with Children,2016,Dollars,65089.30108,109
 Central Harlem,Families with Children,2016,Dollars,45818.60215,110
 East Harlem,Families with Children,2016,Dollars,29103.70968,111
-Upper East Side,Families with Children,2016,Dollars,231188.1183,108
+Upper East Side,Families with Children,2016,Dollars,231188.11828,108
 Upper West Side,Families with Children,2016,Dollars,237005.5914,107
-Chelsea/Clinton,Families with Children,2016,Dollars,168354.3011,104
-Midtown Business District,Families with Children,2016,Dollars,168354.3011,105
-Murray Hill/Stuyvesant,Families with Children,2016,Dollars,221627.8495,106
+Chelsea/Clinton,Families with Children,2016,Dollars,168354.30108,104
+Midtown Business District,Families with Children,2016,Dollars,168354.30108,105
+Murray Hill/Stuyvesant,Families with Children,2016,Dollars,221627.84946,106
 Lower East Side,Families with Children,2016,Dollars,46486.66667,103
-Battery Park/Tribeca,Families with Children,2016,Dollars,231596.7204,101
-Greenwich Village,Families with Children,2016,Dollars,231596.7204,102
-Tottenville,Families with Children,2016,Dollars,110182.6344,503
-South Beach,Families with Children,2016,Dollars,112379.8925,502
+Battery Park/Tribeca,Families with Children,2016,Dollars,231596.72043,101
+Greenwich Village,Families with Children,2016,Dollars,231596.72043,102
+Tottenville,Families with Children,2016,Dollars,110182.63441,503
+South Beach,Families with Children,2016,Dollars,112379.89247,502
 St. George,Families with Children,2016,Dollars,68406.12903,501
 Williamsburg/Greenpoint,Families with Children,2016,Dollars,55681.23656,301
 Bushwick,Families with Children,2016,Dollars,35703.65591,304
 Bedford Stuyvesant,Families with Children,2016,Dollars,41463.92473,303
-Fort Greene/Brooklyn Hts,Families with Children,2016,Dollars,116353.5484,302
-Park Slope,Families with Children,2016,Dollars,171477.043,306
+Fort Greene/Brooklyn Hts,Families with Children,2016,Dollars,116353.54839,302
+Park Slope,Families with Children,2016,Dollars,171477.04301,306
 Crown Heights North,Families with Children,2016,Dollars,51777.04301,308
 Brownsville,Families with Children,2016,Dollars,39391.29032,316
 East New York,Families with Children,2016,Dollars,37470.86022,305
@@ -3037,11 +3037,11 @@ Coney Island,Families with Children,2016,Dollars,52125.37634,313
 Astoria,Families with Children,2016,Dollars,56783.44086,401
 Jackson Heights,Families with Children,2016,Dollars,46062.74194,403
 Flushing,Families with Children,2016,Dollars,50993.54839,407
-Bayside,Families with Children,2016,Dollars,103225.1613,411
+Bayside,Families with Children,2016,Dollars,103225.16129,411
 Queens Village,Families with Children,2016,Dollars,85256.88172,413
 Fresh Meadows/Briarwood,Families with Children,2016,Dollars,61901.1828,408
 Elmhurst/Corona,Families with Children,2016,Dollars,41148.27957,404
-Rego Park/Forest Hills,Families with Children,2016,Dollars,116994.0323,406
+Rego Park/Forest Hills,Families with Children,2016,Dollars,116994.03226,406
 Sunnyside/Woodside,Families with Children,2016,Dollars,62762.31183,402
 Ridgewood/Glendale,Families with Children,2016,Dollars,79274.94624,405
 Woodhaven,Families with Children,2016,Dollars,68622.68817,409
@@ -3050,7 +3050,7 @@ Howard Beach,Families with Children,2016,Dollars,73802.74194,410
 The Rockaways,Families with Children,2016,Dollars,59597.68817,414
 Bronx,Families with Children,2016,Dollars,37369.73118,36005
 Brooklyn,Families with Children,2016,Dollars,57102.15054,36047
-Manhattan,Families with Children,2016,Dollars,113091.8817,36061
+Manhattan,Families with Children,2016,Dollars,113091.88172,36061
 Queens,Families with Children,2016,Dollars,66223.17204,36081
 Staten Island,Families with Children,2016,Dollars,96140,36085
 New York City,Families with Children,2016,Dollars,59222.7957,3651000
@@ -3070,22 +3070,22 @@ Washington Heights,Families without Children,2016,Dollars,62345.53763,112
 Manhattanville,Families without Children,2016,Dollars,52090.64516,109
 Central Harlem,Families without Children,2016,Dollars,57791.66667,110
 East Harlem,Families without Children,2016,Dollars,47074.03226,111
-Upper East Side,Families without Children,2016,Dollars,202474.6237,108
-Upper West Side,Families without Children,2016,Dollars,159094.3548,107
-Chelsea/Clinton,Families without Children,2016,Dollars,174737.6882,104
-Midtown Business District,Families without Children,2016,Dollars,174737.6882,105
-Murray Hill/Stuyvesant,Families without Children,2016,Dollars,191651.7742,106
+Upper East Side,Families without Children,2016,Dollars,202474.62366,108
+Upper West Side,Families without Children,2016,Dollars,159094.35484,107
+Chelsea/Clinton,Families without Children,2016,Dollars,174737.68817,104
+Midtown Business District,Families without Children,2016,Dollars,174737.68817,105
+Murray Hill/Stuyvesant,Families without Children,2016,Dollars,191651.77419,106
 Lower East Side,Families without Children,2016,Dollars,43301.6129,103
-Battery Park/Tribeca,Families without Children,2016,Dollars,226263.4409,101
-Greenwich Village,Families without Children,2016,Dollars,226263.4409,102
-Tottenville,Families without Children,2016,Dollars,101806.2903,503
+Battery Park/Tribeca,Families without Children,2016,Dollars,226263.44086,101
+Greenwich Village,Families without Children,2016,Dollars,226263.44086,102
+Tottenville,Families without Children,2016,Dollars,101806.29032,503
 South Beach,Families without Children,2016,Dollars,101193.3871,502
 St. George,Families without Children,2016,Dollars,84919.78495,501
 Williamsburg/Greenpoint,Families without Children,2016,Dollars,61637.63441,301
 Bushwick,Families without Children,2016,Dollars,50848.49462,304
 Bedford Stuyvesant,Families without Children,2016,Dollars,62534.51613,303
 Fort Greene/Brooklyn Hts,Families without Children,2016,Dollars,98785.69892,302
-Park Slope,Families without Children,2016,Dollars,124365.2151,306
+Park Slope,Families without Children,2016,Dollars,124365.21505,306
 Crown Heights North,Families without Children,2016,Dollars,62505.91398,308
 Brownsville,Families without Children,2016,Dollars,50200.86022,316
 East New York,Families without Children,2016,Dollars,52272.47312,305
