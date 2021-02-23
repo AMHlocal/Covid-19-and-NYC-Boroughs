@@ -4,10 +4,10 @@ Research Question to Answer: Is there a relationship between the income levels o
 Project Description/Outline: Determine if there is a correlation with each borough’s number of Covid 19 cases with their income level.
 
 Datasets to be used: 
-https://www.cdc.gov/socialdeterminants/data/index.htm
-https://catalog.data.gov/dataset/zip-code-data
-https://data.ny.gov/browse?tags=covid-19
-https://github.com/nychealth/coronavirus-data
+https://www.cdc.gov/socialdeterminants/data/index.html 
+https://catalog.data.gov/dataset/zip-code-data 
+https://data.ny.gov/browse?tags=covid-19 
+https://github.com/nychealth/coronavirus-data 
 
 Final Analysis
 
