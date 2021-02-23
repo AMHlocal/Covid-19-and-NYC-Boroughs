@@ -1,5 +1,4 @@
-# group_project_1
-Project Title: Covid-19 and NYC Boroughs
+# Covid-19 and NYC Boroughs
 Github: https://github.com/AMHlocal/group_project_1 
 
 Team Members: Aaron Fagen, Austin Hauck, Daren Hamilton, John Nick Beronilla
