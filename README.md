@@ -1,6 +1,4 @@
 # Covid-19 and NYC Boroughs
-Research Question to Answer: Is there a relationship between the income levels of the 5 boroughs in NYC and Covid 19 cases/deaths.
-
 Project Description/Outline: Determine if there is a correlation with each borough’s number of Covid 19 cases with their income level.
 
 Datasets to be used: 
